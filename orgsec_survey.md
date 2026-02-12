@@ -28,7 +28,16 @@ training and learning
 ### Supporting Text:
 New tools and practices, and changes to standard operating procedures, demand end-user training. If your organization doesn't have established practices around training--when new people are hired, when refresher training is needed, and when important processes change--implementing improved and possibly complex secure practices is nearly impossible. Beginning with documentation and training for new hires is a wise first step in this area. Following up with new employees at 30-day intervals will ensure they continue to get the support they need to do their work effectively and securely. When a new process is introduced, it is like everyone in your organization is new to it, so initial training with similar follow-up is recommended.
 
-### Questions
+### Outcomes
+- 0: When new staff/volunteers are hired they receive training on relevant technologies and processes.
+- 1: Staff/volunteers receive refresher training on relevant technologies and processes.
+- 2: Staff/volunteers receive training for new and changed technologies and processes.
+- 3: Staff/volunteers are able to easily find documentation for technologies and processes they use.
+- 4:
+- 5:
+
+
+### OLD Maturity Questions
 - 0: We have no formalized training of any kind. Information about the way we do our work is passed on to staff in an ad-hoc manner as they carry out their work.
 - 1:
 - 2:
@@ -47,7 +56,17 @@ Asset & Process Management
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0: There is a common set of information systems that are administered by the organization
+- 1: The organization has defined processes (TODO: Is this about systems for specific key processes; that ALL processeses are defined; or that appropriate systems are available for ALL types of work - which requires knowing the work being done. I think that last item is actually what we want.)
+- 2: All staff know which information systems to use for our standardized/defined processes (TODO: if they don't have strongly defined processes or a common set of info systems then this should not count?)
+- 3: The organization knows all systems and/or services being used by staff to accomplish their work.
+- 4:
+- 5:
+
+SEE: (1.3 outcome 1)
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2: Some key organization-wide processes and technologies have been codified. Individual teams or projects have codified the processes, systems, and services which they use. However, there is limited overall consistency or coordination across the organization.
@@ -57,7 +76,7 @@ Asset & Process Management
 
 ## 1.3
 ### Field Label:
-Have technology champions at all levels of the organization, especially leadership, and strong supervisory support and participation in systems adoption.
+Leadership for technology and operations within your organization comes from all levels.
 
 ### Short Title:
 Key Stakeholder Investment and Involvement
@@ -66,13 +85,23 @@ Key Stakeholder Investment and Involvement
 
 ### Supporting Text:
 
-### Questions
-- 0:
+### Outcomes
+- 0: Staff at all levels are supported in identifying, reviewing, changing, and/or replacing processes and associated systems that they have identified as inappropriate or impediments to their work or the organizations mission.
 - 1:
 - 2:
 - 3:
 - 4:
 - 5:
+
+### OLD Maturity Questions
+- 0: Technology planning, decisions, training, and support are entirely managed by technology staff.
+- 1:
+- 2: Individual teams or projects have identified staff technology champions for the systems and services which they use.
+- 3: The organization has a group of volunteer Security Awareness Champions who receive basic training and share security tips with their colleagues.
+- 4:
+- 5: The organization implements a comprehensive Security Awareness Network with champions in every department, featuring regular meetings, advanced training, recognition programs, and a feedback loop that directly informs organizational technology and security strategies.
+
+### External References
 
 ## 1.4
 ### Field Label:
@@ -84,7 +113,7 @@ Have a complete policy set describing employees' responsibilities and limitation
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
 - 0:
 - 1:
 - 2:
@@ -92,17 +121,32 @@ Have a complete policy set describing employees' responsibilities and limitation
 - 4:
 - 5:
 
+### OLD Maturity Questions
+- 0:
+- 1: Some policies are in place. But, critical cybersecurity functions such as risk assessment, incident response, and/or patch management are managed ad-hoc rather than through structured processes.
+- 2: Policies are in place for critical systems, services, and cybersecurity functions. But, discrepancies between policies and actual practices are commonplace and/or many staff do not understand how those policies apply to them.
+- 3:
+- 4:
+- 5:
 
 ## 1.5
 ### Field Label:
-Develop and disseminate baseline non-technical security practices to guide staff in securing themselves and their work that encompass the needs of home workers' safety
+Develop and disseminate baseline non-technical security practices to guide staff in securing themselves and their work that encompass the needs of home workers' safety.
 ### Short Title:
 ### Internal Label:
 1.5
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -116,18 +160,28 @@ Develop and disseminate baseline non-technical security practices to guide staff
 ### Field Label:
 Have a recurrent line item for technology in your budget that includes per-employee support for setting up and maintaining a work-from-home setup.
 ### Short Title:
+Budget
 ### Internal Label:
 2.1
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
 - 0:
 - 1:
 - 2:
 - 3:
 - 4:
 - 5:
+
+### OLD Maturity Questions
+- 0: Technology and security costs are untracked and unpredictable.
+- 1:
+- 2: Technology costs are categorized and tracked. Technology decisions are only informed by cost information  include cost-data about technology are  are only evaluated at the project level
+- 3:
+- 4:  that includes per-employee support for setting up and maintaining a work-from-home setup
+- 5: Including a special fund for extraordinary measures.
+
 
 ## 2.2
 ### Field Label:
@@ -138,7 +192,15 @@ Have regular and adequate technical support provided either by staff assigned vi
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -155,7 +217,15 @@ Regardless of technical support solution, have someone on staff assigned via job
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -172,7 +242,15 @@ Provide relatively new and adequately powered computers to all staff.
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -192,7 +270,15 @@ Have a basic incident response plan in place.
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -209,7 +295,15 @@ Have a process for properly onboarding and offboarding staff and volunteers that
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -226,7 +320,15 @@ Make sure the computers and other devices you use, including personal devices th
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -243,7 +345,15 @@ Have frequent, regular security awareness trainings and updates to ensure people
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -260,7 +370,15 @@ Minimize or eliminate the use of shared accounts where more than one person, esp
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -277,7 +395,15 @@ Have a disaster recovery plan that includes making and testing regular backups o
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -298,7 +424,15 @@ Extend your security analysis to encompass the homes of your staff and volunteer
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -319,7 +453,15 @@ Ensure home wireless network devices are as well managed as possible
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -336,7 +478,15 @@ Be aware of the exposure of location information through your technical tools an
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
@@ -354,7 +504,15 @@ Consider ergonimics as a safety issue.
 
 ### Supporting Text:
 
-### Questions
+### Outcomes
+- 0:
+- 1:
+- 2:
+- 3:
+- 4:
+- 5:
+
+### OLD Maturity Questions
 - 0:
 - 1:
 - 2:
