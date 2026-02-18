@@ -62,22 +62,13 @@ Asset & Process Management
 ### Supporting Text:
 
 ### Outcomes
-- 0: There is a common set of information systems that are administered by the organization
-- 1: The organization has defined processes (TODO: Is this about systems for specific key processes; that ALL processeses are defined; or that appropriate systems are available for ALL types of work - which requires knowing the work being done. I think that last item is actually what we want.)
-- 2: All staff know which information systems to use for our standardized/defined processes (TODO: if they don't have strongly defined processes or a common set of info systems then this should not count?)
-- 3: The organization knows all systems and/or services being used by staff to accomplish their work.
-- 4:
-- 5:
-
-SEE: (1.3 outcome 1)
-
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2: Some key organization-wide processes and technologies have been codified. Individual teams or projects have codified the processes, systems, and services which they use. However, there is limited overall consistency or coordination across the organization.
-- 3: [you know what all the processes and assets are  and/or are actively seeking out any undocumented ones]
-- 4:
-- 5:
+- X: The organization has identified appropriate systems to carry out its various work processes.
+- X: Staff know which systems should be used to carry out their work processes.
+- X: Staff only use the approved systems to carry out their work.
+- X: The organization is aware of ALL the systems that are being used to carry out its work.
+- X: The organization is able to quickly identify if unapproved systems start to be used.
+- X: Staff at all levels are supported in initiating evaluations of system/process which they have identified as "Inappropriate."
+- X: TODO: The organization reevaluates the appropriateness of its systems and processes..
 
 ## 1.3
 ### Field Label:
