@@ -25,7 +25,7 @@ For each item, you should grade your organization honestly on a scale from 1 to 
 
 ## 1.1
 ### Field Label:
-Have a culture of training and learning, including strong technology training and follow up as part of new staff orientation procedures.
+Staff have the technology and security knowledge they need to do their work safely and effectively.
 
 ### Short Title:
 training and learning
@@ -33,27 +33,25 @@ training and learning
 1.1
 
 ### Supporting Text:
+
 New tools and practices, and changes to standard operating procedures, demand end-user training. If your organization doesn't have established practices around training--when new people are hired, when refresher training is needed, and when important processes change--implementing improved and possibly complex secure practices is nearly impossible. Beginning with documentation and training for new hires is a wise first step in this area. Following up with new employees at 30-day intervals will ensure they continue to get the support they need to do their work effectively and securely. When a new process is introduced, it is like everyone in your organization is new to it, so initial training with similar follow-up is recommended.
 
+#### TODO
+- Training materials include... (written guidance, FAQ's, step-by-step guides, recorded webinars, online tutorials, etc.)
+- Training includes proactive in-person sessions, webinars, one-on-one guidance, structured shadowing. (Reactive support/assistance is covered under 2.3 technical operations)
+
 ### Outcomes
-- 0: When new staff/volunteers are hired they receive training on relevant technologies and processes.
-- 1: Staff/volunteers receive refresher training on relevant technologies and processes.
-- 2: Staff/volunteers receive training for new and changed technologies and processes.
-- 3: Staff/volunteers are able to easily find documentation for technologies and processes they use.
-- 4:
-- 5:
-
-
-### OLD Maturity Questions
-- 0: We have no formalized training of any kind. Information about the way we do our work is passed on to staff in an ad-hoc manner as they carry out their work.
-- 1:
-- 2:
-- 3:
-- 4: We have established practices around training when new people are hired, when refresher training is needed, and when important processes change.
-- 5: We have a strong learning culture with clear practices for training and re-training staff, checking their retention of key information, and continuously improving our training.
+- X: Staff are offered training on systems and processes they are expected to use.
+- X: Staff are offered refresher training on relevant topics.
+- X: Staff are offered training on security practices.
+- X: Training material on systems and processes integrate the relevant security topics for those areas.
+- X: Staff are only required to train on the topics which are relevant to their current skill level or role.
+- X: Training materials are available in multiple formats so staff can learn in a way that works best for them.
+- X: Training materials are kept up to date with changes in the context, systems, and processes.
 
 ## 1.2
 ### Field Label:
+
 Have a common and clearly communicated set of information systems that are administered by the organization and used with defined processes; ensure that all staff follow these processes effectively and are not using other systems for their work.
 
 ### Short Title:
