@@ -20,6 +20,17 @@ Objectives are composed of two types of outcome statements. "BASELINE," outcome 
 ### Care Outcomes Themes
 "CARE," outcome statements reflect an organizations commitment to ensure the safety and well-being of employees and others. These statements, generally speaking, reflect one or more of the following areas of safety/well-being.
 
+
+#### Multi-Level Leadership
+
+WHAT: Leadership for technology, operations, and security within your organization can and should come from all levels.
+
+WHY: Junior staff and younger "digital natives" on staff often use or are open to using more technology in their work so can be motivated to participate in the planning and deployment of information systems and promote uptake among peers. Of course, demonstrations of support for and engagement with technology initiatives from management are also powerful motivators for staff. Visible participation by executive leadership in training on and use of official organizational tools is a powerful modeling of preferred behavior and critical to changing organizational habits and culture.
+
+##### References
+- TODO: Civil Society Security Champion Literature (DDP & Others)
+- Security Culture Maturity Roadmap - Security Awareness Champions: https://www.ivoryware.com/Security-Culture-Maturity-Roadmap-821fe093d6ba4d499e232c7a0e5fbff9?p=839224968f7e4758b25ac9f767448552&pm=s&pvs=31
+
 #### Security Collaboration
 WHAT: Is the organization effectively utilizing security collaboration with other organizations and groups who have similar contexts, processes, technologies, and/or goals. Security collaboration is when group(s) of organizations act together to achieve common objectives or address shared challenges. Some examples of what this may look like include sharing information on relevant incidents and risks, pooling resources, expertise, and efforts to achieve common objectives or address shared challenges,  and/or developing individual and collective security plans which protect critical shared infrastructure (people, efforts, technologies, or organizations) whose disruption would cause significant damage to the ability for group member's to operate or achieve their missions.
 

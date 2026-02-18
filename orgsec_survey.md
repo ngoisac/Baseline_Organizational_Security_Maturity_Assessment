@@ -70,35 +70,6 @@ Asset & Process Management
 - X: Staff at all levels are supported in initiating evaluations of system/process which they have identified as "Inappropriate."
 - X: TODO: The organization reevaluates the appropriateness of its systems and processes..
 
-## 1.3
-### Field Label:
-Leadership for technology and operations within your organization comes from all levels.
-
-### Short Title:
-Key Stakeholder Investment and Involvement
-### Internal Label:
-1.3
-
-### Supporting Text:
-
-### Outcomes
-- 0: Staff at all levels are supported in identifying, reviewing, changing, and/or replacing processes and associated systems that they have identified as inappropriate or impediments to their work or the organizations mission.
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
-
-### OLD Maturity Questions
-- 0: Technology planning, decisions, training, and support are entirely managed by technology staff.
-- 1:
-- 2: Individual teams or projects have identified staff technology champions for the systems and services which they use.
-- 3: The organization has a group of volunteer Security Awareness Champions who receive basic training and share security tips with their colleagues.
-- 4:
-- 5: The organization implements a comprehensive Security Awareness Network with champions in every department, featuring regular meetings, advanced training, recognition programs, and a feedback loop that directly informs organizational technology and security strategies.
-
-### External References
-
 ## 1.4
 ### Field Label:
 Have a complete policy set describing employees' responsibilities and limitations on their facilities, hardware, and information systems use, including clearly laying out expectations for extended periods of working from home.
