@@ -14,6 +14,13 @@ The tool is laid out as a number of items to assess broken out across four categ
 For each item, you should grade your organization honestly on a scale from 1 to 5. At the end of the survey you will receive an email that includes your score and how to interpret it.
 
 
+## Terms used in this survey
+- Systems: This refers to any technologies/tools, systems, or online services which are used to carry out work. This includes devices, software, hosted solutions, third-party hosted solutions, etc.
+- processes: This is the way your work is done. This includes any standard operating procedures, specific workflows, security practices, etc.
+- security practices: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
+- "Inappropriate" systems or processes: Inappropriate systems or processes are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.”
+- "Appropriate" systems or processes: Appropriate systems or processes are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
+
 # Section 1: Cultural Hallmarks for Security Success
 
 ## 1.1
