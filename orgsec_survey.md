@@ -67,34 +67,34 @@ Asset & Process Management
 - X: Staff only use the approved systems to carry out their work.
 - X: The organization is aware of ALL the systems that are being used to carry out its work.
 - X: The organization is able to quickly identify if unapproved systems start to be used.
-- X: Staff at all levels are supported in initiating evaluations of system/process which they have identified as "Inappropriate."
-- X: TODO: The organization reevaluates the appropriateness of its systems and processes..
+- X: Staff at all levels are supported in initiating evaluations of systems which they have identified as "Inappropriate."
+- X: TODO: The organization reevaluates the appropriateness of its systems and processes.
 
 ## 1.4
 ### Field Label:
 Have a complete policy set describing employees' responsibilities and limitations on their facilities, hardware, and information systems use, including clearly laying out expectations for extended periods of working from home.
 
+provide staff all of the information they might need to
+- ensure that staff follow these processes effectively, and
+- make the right security decision when necessary.
+
 ### Short Title:
+Clear stakeholder responsibilities and limitation
 ### Internal Label:
 1.4
 
 ### Supporting Text:
 
-### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
 
-### OLD Maturity Questions
-- 0:
-- 1: Some policies are in place. But, critical cybersecurity functions such as risk assessment, incident response, and/or patch management are managed ad-hoc rather than through structured processes.
-- 2: Policies are in place for critical systems, services, and cybersecurity functions. But, discrepancies between policies and actual practices are commonplace and/or many staff do not understand how those policies apply to them.
-- 3:
-- 4:
-- 5:
+### Outcomes
+- X: Staff follow approved processes to carry out their work.
+- X: Staff understand their responsibilities when using systems.
+- X: Staff understand their roles and responsibilities in policies and processes.
+- X: Staff understand the specific risks policies and processes are mitigating.
+- X: Exceptions to policies are documented and justified transparently.
+- x: TODO: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
+- X: Staff understand the scope of their decision-making authority.
+- X: TODO Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
 
 ## 1.5
 ### Field Label:
