@@ -96,30 +96,7 @@ Clear stakeholder responsibilities and limitation
 - X: Staff understand the scope of their decision-making authority.
 - X: TODO Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
 
-## 1.5
-### Field Label:
-Develop and disseminate baseline non-technical security practices to guide staff in securing themselves and their work that encompass the needs of home workers' safety.
-### Short Title:
-### Internal Label:
-1.5
 
-### Supporting Text:
-
-### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
-
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
 
 # Section 2:  Information Technology Operations that Support Security Outcomes
 
