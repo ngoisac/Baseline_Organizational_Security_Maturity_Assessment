@@ -47,11 +47,11 @@ New tools and practices, and changes to standard operating procedures, demand en
 - X: Training material on systems and processes integrate the relevant security topics for those areas.
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
 - X: Training materials are available in multiple formats so staff can learn in a way that works best for them.
-- X: Training materials are kept up to date with changes in the context, systems, and processes.
+- X: Training materials are kept up to date with changes in the context, actors, systems, and processes.
+- X: Staff at all levels provide feedback which is used to refine training efforts to be more effective.
 
 ## 1.2
 ### Field Label:
-
 Have a common and clearly communicated set of information systems that are administered by the organization and used with defined processes; ensure that all staff follow these processes effectively and are not using other systems for their work.
 
 ### Short Title:
