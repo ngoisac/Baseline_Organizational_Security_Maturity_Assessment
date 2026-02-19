@@ -332,20 +332,29 @@ Minimize or eliminate the use of shared accounts where more than one person, esp
 
 ## 3.6
 ### Field Label:
-Have a disaster recovery plan that includes making and testing regular backups of organizational data that are stored at at least two locations. Backup drives should at a minimum be stored in a physically secure location like a locking file cabinet or safety deposit box, and ideally encrypted so that only you can access them. The storage location is especially critical for keeping backups in peoples' homes and your organization should invest in resources (safes, lock boxes, etc.) to support safe storage in personal homes.  Do not rely exclusively on third parties to back up and hold your information.
+Disaster recovery
+
 ### Short Title:
 ### Internal Label:
 3.6
 
 ### Supporting Text:
+Have a disaster recovery plan that includes making and testing regular backups of organizational data that are stored at at least two locations. Backup drives should at a minimum be stored in a physically secure location like a locking file cabinet or safety deposit box, and ideally encrypted so that only you can access them. The storage location is especially critical for keeping backups in peoples' homes and your organization should invest in resources (safes, lock boxes, etc.) to support safe storage in personal homes.  Do not rely exclusively on third parties to back up and hold your information.
+
+Risks to be taken into account encompass those stemming from natural hazards, neighboring entities, built environments, political or social unrest, as well as risks associated with IT and data security.
 
 ### Outcomes
-- X: Organizational Data Loss
-- X: Individual Device Data Loss
-- X:
-- X:
-- X:
-- X:
-- X: Staff at all levels understand and have practiced how their work would recover from the loss of relevant systems.
-- X: Responsible staff understand their roles and responsibilities .
-- X: Responsible staff feel they have the authority and mandate to....
+
+Identification
+- X: The organization knows what Essential Functions must be continued through a disruption, or restored as soon as possible in order to continue the critical functioning of the organization as a whole.
+- X: Essential Functions include those required to address relevant safety, wellness, security, and operational risks that may arise during/after a disaster.
+- X: The organization has the ability to continue and/or restore Essential Functions during disasters.
+- X: The organization knows what Mission Critical Functions cannot be interrupted for more than a short period without significantly impacting the organizations mission.
+- X: The organization has the ability to continue and/or restore Mission Critical Functions during disasters.
+- X: The organization has an accurate understanding of what Critical Documents and Data are required to continue the critical functioning of the organization and meet its legal, regulatory, and operational obligations.
+- X: The organization has the ability to recover all Critical Documents and Data after a disaster.
+- X: Staff at all levels understand and have practiced their roles and responsibilities during disaster recovery.
+- X: Staff at all levels understand what, if any, additional authority, agency, or flexibility they have to make decisions during disasters in order to continue to carry out Essential or Mission Critical Functions.
+
+### REFERENCES
+Business Continuity Planning For Nonprofits - https://www.sbfoundation.org/wp-content/uploads/2020/03/Basic-Continuity-Planning-for-Nonprofits-FINAL.pdf
