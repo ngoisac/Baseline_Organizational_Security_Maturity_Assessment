@@ -307,28 +307,37 @@ Have frequent, regular security awareness trainings and updates to ensure people
 
 ## 3.5
 ### Field Label:
-Minimize or eliminate the use of shared accounts where more than one person, especially less-vetted parties like volunteers, can log in to your systems using the same credentials.
+Agility, efficiency, and accountability are achieved by weaving security into roles and workflows, instead of being prevented by layering security on top of them, or by ignoring security all together.
+
 ### Short Title:
+Access and Capability Management
 ### Internal Label:
 3.5
 
 ### Supporting Text:
 
-### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+Security works best when it fits naturally into how people do their jobs, not when it creates extra steps, workarounds, or confusion. This section assesses how well your organization matches access and capabilities to the people who need them. It looks at if staff have what they need to do their work, if higher-risk information and systems are appropriately protected, and if the is being done in a way that is maintainable.
 
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+Outcomes in this section aim to show if staff can simultaneously do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and whether workarounds or shadow IT are symptoms of poor integration.
+
+This includes minimizing or eliminating the use of shared accounts where more than one person, especially less-vetted parties like volunteers, can log in to your systems using the same credentials.
+
+### Outcomes
+- X: Only authorized users, services, and hardware have access to our systems and information.
+- X: Staff have access to the internal documents and data they need to carry out their work and collaborate effectively.
+- X: Higher-risk information is only accessible to staff who have a genuine need for it.
+- X: Everyone with access to higher-risk information understand its sensitivity, the risks of exposure or mishandling, and how to handle it appropriately.
+- X: Staff across the organization can recognize when access doesn't seem appropriate and know how to raise it.
+- X: Staff recognize and respect appropriate information boundaries - knowing what not to share and not seeking what they don't need.
+- X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
+- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
+- X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
+- X: Account structures make appropriate access and capability management straightforward, not a source of friction or overhead.
+
+
+
+### References
+- PR.AA: Identity Management, Authentication, And Access Control - https://csf.tools/reference/nist-cybersecurity-framework/v2-0/pr/pr-aa/
 
 ## 3.6
 ### Field Label:
@@ -355,6 +364,8 @@ Identification
 - X: The organization has the ability to recover all Critical Documents and Data after a disaster.
 - X: Staff at all levels understand and have practiced their roles and responsibilities during disaster recovery.
 - X: Staff at all levels understand what, if any, additional authority, agency, or flexibility they have to make decisions during disasters in order to continue to carry out Essential or Mission Critical Functions.
+- X: The organization can implement essential disaster recovery processes with limited staff available, or a loss of key personnel.
+
 
 ### REFERENCES
 Business Continuity Planning For Nonprofits - https://www.sbfoundation.org/wp-content/uploads/2020/03/Basic-Continuity-Planning-for-Nonprofits-FINAL.pdf
