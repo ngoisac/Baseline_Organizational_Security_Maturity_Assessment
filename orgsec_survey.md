@@ -20,35 +20,33 @@ For each item, you should grade your organization honestly on a scale from 1 to 
 - security practices: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
 - "Inappropriate" systems or processes: Inappropriate systems or processes are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.”
 - "Appropriate" systems or processes: Appropriate systems or processes are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
+- Broader Risks: The full range of interconnected risks facing an organization and the people it serves; spanning physical, digital, psychosocial, legal, financial, reputational, operational, and other dimensions. When used in this assessment, it signals that the risks being described extend beyond pure information security risks to risks with impacts on mission effectiveness, individual safety or wellbeing, or organizational operations.
 
 # Section 1: Cultural Hallmarks for Security Success
+
+#### TODO
+- Training materials include... (written guidance, FAQ's, step-by-step guides, recorded webinars, online tutorials, etc.)
+- Training includes proactive in-person sessions, webinars, one-on-one guidance, structured shadowing. (Reactive support/assistance is covered under 2.3 technical operations)
 
 ## 1.1
 ### Field Label:
 Staff have the technology and security knowledge they need to do their work safely and effectively.
-
 ### Short Title:
 training and learning
 ### Internal Label:
 1.1
 
 ### Supporting Text:
-
 New tools and practices, and changes to standard operating procedures, demand end-user training. If your organization doesn't have established practices around training--when new people are hired, when refresher training is needed, and when important processes change--implementing improved and possibly complex secure practices is nearly impossible. Beginning with documentation and training for new hires is a wise first step in this area. Following up with new employees at 30-day intervals will ensure they continue to get the support they need to do their work effectively and securely. When a new process is introduced, it is like everyone in your organization is new to it, so initial training with similar follow-up is recommended.
 
-#### TODO
-- Training materials include... (written guidance, FAQ's, step-by-step guides, recorded webinars, online tutorials, etc.)
-- Training includes proactive in-person sessions, webinars, one-on-one guidance, structured shadowing. (Reactive support/assistance is covered under 2.3 technical operations)
 
 ### Outcomes
-- X: Staff are offered training on systems and processes they are expected to use.
-- X: Staff are offered refresher training on relevant topics.
-- X: Staff are offered training on security practices.
-- X: Training material on systems and processes integrate the relevant security topics for those areas.
+- X: Staff are provided training on systems and processes they are expected to use.
+- X: Staff are provided refresher training on relevant topics.
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
 - X: Training materials are available in multiple formats so staff can learn in a way that works best for them.
-- X: Training materials are kept up to date with changes in the context, actors, systems, and processes.
 - X: Staff at all levels provide feedback which is used to refine training efforts to be more effective.
+- X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
 
 ## 1.2
 ### Field Label:
@@ -281,29 +279,30 @@ Make sure the computers and other devices you use, including personal devices th
 - 5:
 
 ## 3.4
+
 ### Field Label:
-Have frequent, regular security awareness trainings and updates to ensure people are aware of emerging risks associated with the COVID-19 crisis including topical phishing and malware applications that are appearing in the wild. Trainings should generally include how to recognize scams, resist social engineering and to identify and report security incidents.
+Staff are aware of relevant risks and security practices
+
 ### Short Title:
+Security Training
 ### Internal Label:
 3.4
 
 ### Supporting Text:
+Threats are constantly evolving as bad actors actively respond to changes in the context and the awareness of their tactics. Security training and awareness raising is only effective against current threats when it is relevant, current, and frequent enough to keep pace with that reality. It is only effective against emergent threats when it treats staff as capable of understanding and responding to real threats, not just following procedures.
+
+Outcomes in this section aim to show if security training covers the systems, contexts, and threats most relevant to your staff, and whether it is designed to have the greatest overall impact.
 
 ### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- X: Staff know how to effectively carry out all relevant security practices.
+- X: Staff trained on organizational systems or processes have received relevant information about related risks and security practices.
+- X: Staff understand enough about the risks security practices address to make good security decisions, even in situations their training didn't explicitly cover.
+- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
+- X: Staff are prepared to identify and protect against current and emerging threats targeting organizations and groups who have similar contexts, processes, technologies, or goals.
+- X: The organization's training library is enriched by materials sourced from, vetted by, or produces with its peer community.
 
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+### References
+- Security Culture Maturity Roadmap - https://www.ivoryware.com/Security-Culture-Maturity-Roadmap-821fe093d6ba4d499e232c7a0e5fbff9
 
 ## 3.5
 ### Field Label:
@@ -318,9 +317,7 @@ Access and Capability Management
 
 Security works best when it fits naturally into how people do their jobs, not when it creates extra steps, workarounds, or confusion. This section assesses how well your organization matches access and capabilities to the people who need them. It looks at if staff have what they need to do their work, if higher-risk information and systems are appropriately protected, and if the is being done in a way that is maintainable.
 
-Outcomes in this section aim to show if staff can simultaneously do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and whether workarounds or shadow IT are symptoms of poor integration.
-
-This includes minimizing or eliminating the use of shared accounts where more than one person, especially less-vetted parties like volunteers, can log in to your systems using the same credentials.
+Outcomes in this section aim to show if staff can do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and if staff are unlikely to not feel the need to implement workarounds or shadow IT to do their work both safely and effectively.
 
 ### Outcomes
 - X: Only authorized users, services, and hardware have access to our systems and information.
