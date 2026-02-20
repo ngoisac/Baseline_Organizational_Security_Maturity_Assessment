@@ -281,7 +281,7 @@ Make sure the computers and other devices you use, including personal devices th
 ## 3.4
 
 ### Field Label:
-Staff are aware of relevant risks and security practices
+Staff are aware of relevant security risks and practices
 
 ### Short Title:
 Security Training
