@@ -230,28 +230,27 @@ Have a basic incident response plan in place.
 
 ## 3.2
 ### Field Label:
-Have a process for properly onboarding and offboarding staff and volunteers that includes attention to your information systems and to people's work-from-home infrastructure.
+The organization maintains oversight and control over who can access its systems and what they can do within them.
+
 ### Short Title:
 ### Internal Label:
 3.2
-
 ### Supporting Text:
+Every time someone joins or leaves the organization, the risk landscape shifts. Access that isn't granted carefully can expose systems and data to people who shouldn't have it; access that isn't removed promptly can linger long after someone has departed. The same is true when inappropriate access or behavior goes unnoticed. The organization loses the ability to put proper protections in place, understand what happened, or remediate any harm that occurred. Oversight and accountability is how an organization ensures that what people can access and do in its systems stays appropriately matched to the level of risk their staff, constituents, participants, and beneficiaries have accepted when working with them.
+
+Outcomes in this section aim to show whether the organization maintains control over staff members data, access, and capabilities across the full arc of their relationship with it and whether it has the visibility to recognize and act on inappropriate access or behavior before it causes harm.
 
 ### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- X: Only authorized users, services, and hardware have access to our systems and information.
+- X: Staff who leave the organization no longer have access to organizational systems and data.
+- X: Organizational data on departing staff or volunteers' devices is either transferred to the organization or securely deleted.
+- X: Responsible operational staff across different functions (HR, IT, managers, security) coordinate to complete onboarding and offboarding tasks.
+- X: The organization tracks completion of onboarding and offboarding tasks to ensure nothing is missed.
+- X: Inappropriate accounts and access permissions are identified and addressed before they can create unnecessary risk.
+- X: Staff across the organization can recognize inappropriate access or accounts and know how to address it.
+- X: The organization can access any data or accounts created in the course of its work, regardless of the status or cooperation of any individual staff member.
+- X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
 
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
 
 ## 3.3
 ### Field Label:
