@@ -255,28 +255,27 @@ Have a process for properly onboarding and offboarding staff and volunteers that
 
 ## 3.3
 ### Field Label:
-Make sure the computers and other devices you use, including personal devices that staff may use to access organizational information, are only running only the software expected, and only the most recent version of those programs. Have a plan to detect and remove malware, viruses, or other intrusive software and run update tools regularly.
+Devices used to carry out organizational work are trustworthy, understood, maintained, and protected.
 ### Short Title:
+Device Integrity
 ### Internal Label:
 3.3
-
 ### Supporting Text:
+The information that lives on and moves through organizational devices carries real risk if it is stolen, exposed, or destroyed. Managing that risk starts with devices that can be genuinely trusted, by the people who use them and the organization that depends on them. Building that trust means maintaining a clear picture of what devices are doing, keeping them current and healthy, and ensuring they are actively defended.
+
+Outcomes in this section aim to show whether the organization has the visibility, tools, and capacity to keep its devices trustworthy. This includes knowing what is installed and how things are configured, being able to identify and act on problems in a reasonable timeframe, having measures in place to protect devices; and ensuring that staff feel they can depend on their devices to safely and securely carry out their work.
 
 ### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- X: The organization knows what software is installed on organizational devices.
+- X: The organization can identify devices and software that are running outdated versions or are configured insecurely.
+- X: Devices prevent installation or execution of malicious software.
+- X: When devices are identified as out of date, insecure, or untrustworthy, the organization has the capacity to take action in a reasonable timeframe.
+- X: Devices can be restored to a clean, known-good state when necessary.
+- X: Staff provide informed consent before device security measures are installed on their devices, understanding what data will be collected and how it will be used.
+- X:  The organization leverages shared resources, discounted software programs (like TechSoup), or peer networks to access legitimate copies of software and security tools affordably.
 
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+#### References
+- Honest Security:  https://honest.security/
 
 ## 3.4
 
