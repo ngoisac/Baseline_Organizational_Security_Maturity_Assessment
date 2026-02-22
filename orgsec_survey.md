@@ -174,28 +174,25 @@ Have regular and adequate technical support provided either by staff assigned vi
 
 ## 2.3
 ### Field Label:
-Regardless of technical support solution, have someone on staff assigned via job description to be responsible for technical operations, including managing technical support providers and systems upgrades.
+The organization maintains designated internal ownership of its technical operations.
+
 ### Short Title:
 ### Internal Label:
 2.3
 
 ### Supporting Text:
+Technical support can be sourced in many ways: dedicated staff, shared services, outside consultants, or some combination. But no arrangement works well without someone on staff who owns the results. Without designated internal ownership, vendor relationships drift, upgrades get delayed, and security initiatives stall because no one has the time or authority to drive them forward. The risk is not just operational: an organization that cannot direct and evaluate its own technical environment cannot make informed decisions about whether it is secure, well-served, or aligned with its mission.
+
+Outcomes in this section aim to show whether the organization has genuine internal ownership of its technical operations. Not just someone who handles day-to-day problems, but someone with the responsibility, time, and authority to direct providers, oversee improvements, and ensure technical systems continue to serve the organization's needs and risk management approach.
 
 ### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- X: System upgrades and infrastructure improvements are owned and overseen internally, even when the technical work is carried out by others.
+- X: External technical providers are directed and overseen by someone with designated internal responsibility, not left to operate independently.
+- X: The organization maintains staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
+- X: Technical decisions are aligned with the organization's broader approach to managing risk.
+- X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
+- X: Staff at all levels are supported in initiating evaluations of systems which they have identified as "Inappropriate."
 
-### OLD Maturity Questions
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
 
 ## 2.4
 ### Field Label:
