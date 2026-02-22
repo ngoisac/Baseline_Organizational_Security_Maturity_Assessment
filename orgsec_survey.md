@@ -95,6 +95,28 @@ Clear stakeholder responsibilities and limitation
 - X: TODO Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
 
 
+## 1.6
+### Field Label:
+The organization takes a coordinated, inclusive, and adaptive approach to managing risks.
+### Short Title:
+### Internal Label:
+1.6
+
+### Supporting Text:
+Organizations that manage risks in silos often find that a decision made to reduce risk in one area quietly creates it in another, and that duplicated, disconnected controls consume resources without making anyone safer. Including the people closest to the work produces risk management that is more accurate, more trusted, and less likely to be worked around. When those affected by risk decisions are genuinely included in them, the result is a shared understanding that makes risk strategies more credible, more accurate, and more likely to be followed. A coordinated, inclusive approach produces a more accurate picture of risk, eliminates redundant controls, and keeps security from becoming an obstacle to the work it is meant to protect.
+
+Outcomes in this section aim to show whether the organization understands and manages its risks as interconnected concerns rather than isolated problems, whether the people affected by risk decisions have genuine input into them, and whether the organization's approach to risk remains grounded in an honest and current picture of what it and the people it works with are actually willing and able to accept.
+
+### Outcomes
+- X: Risk management decisions in one area are evaluated for their potential impact on management of Broader Risks.
+- X: Risk management efforts are coordinated enough across Broader Risk areas to eliminate redundant controls and processes that consume resources without reducing risk.
+- X: Staff across all levels and function areas have a genuine opportunity to provide input into risk management decisions that affect their work.
+- X: The organization's understanding and management of risks adapts to relevant changes in its context, activities, and threat environment.
+- X: The organization does not accept risks on behalf of staff, constituents, or partners without their knowledge and agreement.
+- X: The organization can accommodate different levels of individual risk tolerance without compromising the safety and security of others.
+- X: Staff understand the risks behind the security practices and behaviors expected of them, and the level of risk tolerance that guides those expectations.
+- X: Staff involve those responsible for managing the relevant risks before taking actions that could expose the organization or others to more risk than they have agreed to accept.
+
 
 # Section 2:  Information Technology Operations that Support Security Outcomes
 
