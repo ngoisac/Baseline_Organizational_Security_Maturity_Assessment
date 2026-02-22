@@ -9,9 +9,7 @@ version: "0.1,  NOT PEER REVIEWED"
 
 This assessment tool is meant to help organizations identify where their most critical security needs lie. Many common information systems and technology practices are oriented around providing or supporting security outcomes. Because of that, organizations that have foundational technology capacity issues are best served by putting energy improving baseline systems before taking on new security initiatives.
 
-The tool is laid out as a number of items to assess broken out across four categories: cultural hallmarks of security success, information technology operations that support security outcomes, digital security baseline capacities, and best practices for safe working from home. Go through each section one by one.
-
-For each item, you should grade your organization honestly on a scale from 1 to 5. At the end of the survey you will receive an email that includes your score and how to interpret it.
+The tool is laid out as a number of items to assess broken out across three categories: 1) cultural hallmarks of security success, 2) information technology operations that support security outcomes, 3) digital security baseline capacities. Go through each section one by one.
 
 
 ## Terms used in this survey
@@ -24,21 +22,18 @@ For each item, you should grade your organization honestly on a scale from 1 to 
 
 # Section 1: Cultural Hallmarks for Security Success
 
-#### TODO
-- Training materials include... (written guidance, FAQ's, step-by-step guides, recorded webinars, online tutorials, etc.)
-- Training includes proactive in-person sessions, webinars, one-on-one guidance, structured shadowing. (Reactive support/assistance is covered under 2.3 technical operations)
-
 ## 1.1
 ### Field Label:
-Staff have the technology and security knowledge they need to do their work safely and effectively.
+Staff have the technology and process knowledge they need to do their work effectively.
 ### Short Title:
 training and learning
 ### Internal Label:
 1.1
 
 ### Supporting Text:
-New tools and practices, and changes to standard operating procedures, demand end-user training. If your organization doesn't have established practices around training--when new people are hired, when refresher training is needed, and when important processes change--implementing improved and possibly complex secure practices is nearly impossible. Beginning with documentation and training for new hires is a wise first step in this area. Following up with new employees at 30-day intervals will ensure they continue to get the support they need to do their work effectively and securely. When a new process is introduced, it is like everyone in your organization is new to it, so initial training with similar follow-up is recommended.
+New tools, updated processes, and changes to how work gets done all require staff to learn something new. Without consistent, accessible training, even well-designed systems and processes fail in practice because the people using them are left to figure things out on their own. The problem compounds over time: staff who never received proper training pass on incomplete knowledge to others, workarounds become normalized, and security practices erode not because people chose to ignore them but because nobody ever showed them how to follow them correctly.
 
+Outcomes in this section aim to show whether staff have access to the training they need to use organizational systems and follow organizational processes effectively and securely, whether that training stays current and relevant as things change, and whether it is designed to meet staff where they are rather than applying a single approach to everyone.
 
 ### Outcomes
 - X: Staff are provided training on systems and processes they are expected to use.
