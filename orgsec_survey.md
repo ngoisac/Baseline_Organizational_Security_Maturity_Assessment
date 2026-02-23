@@ -117,30 +117,21 @@ Outcomes in this section aim to show whether the organization understands and ma
 
 ## 2.1
 ### Field Label:
-Have a recurrent line item for technology in your budget that includes per-employee support for setting up and maintaining a work-from-home setup.
+The organization maintains a recurring technology budget that reflects the real costs of keeping staff equipped and supported.
 ### Short Title:
 Budget
 ### Internal Label:
 2.1
 
 ### Supporting Text:
+Security is not a one-time purchase. It requires sustained investment in equipment, software, and support to remain effective as technology ages, threats evolve, and organizations change. Organizations that treat technology spending as a periodic, one-off expense rather than a predictable operational cost tend to fall behind on device replacement, skip necessary software, and leave staff without adequate support. The result is not just outdated tools but a security posture that quietly erodes over time.
+
+Outcomes in this section aim to show that the organization treats technology spending as a recurring, planned commitment rather than an afterthought.
 
 ### Outcomes
-- 0:
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
-
-### OLD Maturity Questions
-- 0: Technology and security costs are untracked and unpredictable.
-- 1:
-- 2: Technology costs are categorized and tracked. Technology decisions are only informed by cost information  include cost-data about technology are  are only evaluated at the project level
-- 3:
-- 4:  that includes per-employee support for setting up and maintaining a work-from-home setup
-- 5: Including a special fund for extraordinary measures.
-
+- X: The organization has a dedicated, recurring budget line item that covers technology costs including hardware, software, support, and training.
+- X: Technology budget planning accounts for the different equipment, connectivity, and support needs of staff across roles, locations, and personal circumstances.
+- X: Technology budget decisions consider the security implications of staff using personal equipment or connections when organizational resources are insufficient.
 
 ## 2.2
 ### Field Label:
