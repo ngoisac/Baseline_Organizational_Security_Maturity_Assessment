@@ -256,6 +256,7 @@ Every time someone joins or leaves the organization, the risk landscape shifts. 
 Outcomes in this section aim to show whether the organization maintains control over staff members data, access, and capabilities across the full arc of their relationship with it and whether it has the visibility to recognize and act on inappropriate access or behavior before it causes harm.
 
 ### Outcomes
+- X: New staff receive the accounts and access they need to begin work in a timely manner.
 - X: Only authorized users, services, and hardware have access to our systems and information.
 - X: Staff who leave the organization no longer have access to organizational systems and data.
 - X: Organizational data on departing staff or volunteers' devices is either transferred to the organization or securely deleted.
@@ -305,10 +306,7 @@ Security works best when it fits naturally into how people do their jobs, not wh
 Outcomes in this section aim to show if staff can do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and if staff are unlikely to not feel the need to implement workarounds or shadow IT to do their work both safely and effectively.
 
 ### Outcomes
-- X: New staff receive the accounts and access they need to begin work in a timely manner.
 - X: Staff have access to the internal documents and data they need to carry out their work and collaborate effectively.
-- X: Higher-risk information is only accessible to staff who have a genuine need for it.
-- X: Everyone with access to higher-risk information understand its sensitivity, the risks of exposure or mishandling, and how to handle it appropriately.
 - X: Staff recognize and respect appropriate information boundaries - knowing what not to share and not seeking what they don't need.
 - X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
 - X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
