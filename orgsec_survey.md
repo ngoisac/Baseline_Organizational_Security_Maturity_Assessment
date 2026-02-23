@@ -85,7 +85,6 @@ Outcomes in this section aim to show whether staff understand their responsibili
 - X: Exceptions to policies are documented and justified transparently.
 - x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
 - X: Staff understand the scope of their decision-making authority.
-- X: Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
 
 
 ## 1.6
