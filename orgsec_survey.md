@@ -45,6 +45,7 @@ Outcomes in this section aim to show whether staff have access to the training t
 - X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
 - X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff at all levels can identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
+- X: The organization has evidence that staff can perform their assigned incident response and crisis management roles under realistic (simulated) conditions.
 
 
 ### References
@@ -237,7 +238,6 @@ Outcomes in this section aim to show that your organization has the foundational
 - X: The organization can identify when a security incident is occurring or has occurred.
 - X: When security incidents occur, their impact is mitigated and normal operations are restored within defined timeframes.
 - X: When security incidents occur, the incident is contained so it does not spread beyond the initially affected systems, accounts, or locations.
-- X: The organization periodically tests or exercises their incident response plan to identify gaps before real incidents occur.
 - X: The organization exchanges incident information and mitigations with constituents, partners, and peers to prevent or prepare for similar attacks.
 - X: The organization has identified external resources (security organizations, consultants, peer networks, CERTs) they can reach out to for incident support.
 - X: Incident response planning considers how information security incidents may create or interact with Broader Risks.
@@ -333,7 +333,6 @@ Outcomes in this section aim to show whether the organization has a clear and pr
 - X: The organization has the ability to continue and/or restore Mission Critical Functions during disasters.
 - X: The organization has an accurate understanding of what Critical Documents and Data are required to continue the critical functioning of the organization and meet its legal, regulatory, and operational obligations.
 - X: The organization has the ability to recover all Critical Documents and Data after a disaster.
-- X: Staff at all levels understand and have practiced their roles and responsibilities during disaster recovery.
 - X: Staff at all levels understand what, if any, additional authority, agency, or flexibility they have to make decisions during disasters in order to continue to carry out Essential or Mission Critical Functions.
 - X: The organization can implement essential disaster recovery processes with limited staff available, or a loss of key personnel.
 
