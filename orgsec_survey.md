@@ -41,6 +41,7 @@ Outcomes in this section aim to show whether staff have access to the training t
 - X: Staff are provided refresher training on relevant topics.
 - X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
+- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
 - X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
 - X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff at all levels can identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
@@ -302,13 +303,10 @@ Security works best when it fits naturally into how people do their jobs, not wh
 Outcomes in this section aim to show if staff can do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and if staff are unlikely to not feel the need to implement workarounds or shadow IT to do their work both safely and effectively.
 
 ### Outcomes
+- X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
 - X: Staff have access to the internal documents and data they need to carry out their work and collaborate effectively.
 - X: Staff recognize and respect appropriate information boundaries - knowing what not to share and not seeking what they don't need.
-- X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
-- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
-- X: Account structures make appropriate access and capability management straightforward, not a source of friction or overhead.
-
-
+- X: Account structures make managing access and capability straightforward, not a source of friction or overhead.
 
 ### References
 - PR.AA: Identity Management, Authentication, And Access Control - https://csf.tools/reference/nist-cybersecurity-framework/v2-0/pr/pr-aa/
