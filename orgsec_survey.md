@@ -220,31 +220,6 @@ Outcomes in this section aim to show that the organization's security controls a
 - X:  The organization develops security controls and configurations collaboratively with peer organizations facing similar operational contexts, systems, threats, or resource constraints.
 - X: The organization shares its security configurations, policies, and implementation guidance with peer organizations that could benefit from them.
 
-## 3.1
-### Objective Title:
-The organization is prepared to recognize, contain, and recover from security incidents while protecting everyone affected.
-
-### Short Title:
-incident response planning
-### Internal Label:
-3.1
-### Description:
-Every organization faces security risks that cannot be fully prevented. The question is not whether something will go wrong, but whether your organization will be ready when it does. Without a plan in place before an incident occurs, teams waste critical time figuring out who is responsible, how to reach technical support, and what steps to take first, while the situation continues to unfold. An incident response plan does not need to be elaborate to be effective; even a basic, well-communicated plan dramatically improves an organization's ability to contain damage, restore operations, and protect the people affected.
-
-Outcomes in this section aim to show that your organization has the foundational readiness to recognize, respond to, and recover from security incidents. This includes whether staff know their roles before an incident happens, whether the organization can limit harm when one occurs, and whether planning accounts for the full range of people, inside and outside the organization, who may be affected.
-
-### Outcomes
-- X: Staff understand their individual roles and responsibilities during a security incident.
-- X: The organization can identify when a security incident is occurring or has occurred.
-- X: When security incidents occur, their impact is mitigated and normal operations are restored within defined timeframes.
-- X: When security incidents occur, the incident is contained so it does not spread beyond the initially affected systems, accounts, or locations.
-- X: The organization exchanges incident information and mitigations with constituents, partners, and peers to prevent or prepare for similar attacks.
-- X: The organization has identified external resources (security organizations, consultants, peer networks, CERTs) they can reach out to for incident support.
-- X: Incident response planning considers how information security incidents may create or interact with Broader Risks.
-- X: Incident response plans consider how incidents may disproportionately impact staff, constituents, or partners with different profiles (gender, location, role, technical capacity, personal circumstances).
-- X: Staff, constituents, partners, and beneficiaries are informed when incidents may affect their data, privacy, safety, or wellbeing.
-
-
 ## 3.2
 ### Objective Title:
 The organization maintains oversight and control over who can access its systems and what they can do within them.
@@ -311,31 +286,44 @@ Outcomes in this section aim to show if staff can do their jobs and be secure si
 ### References
 - PR.AA: Identity Management, Authentication, And Access Control - https://csf.tools/reference/nist-cybersecurity-framework/v2-0/pr/pr-aa/
 
-## 3.6
+## 3.7
 ### Objective Title:
-The organization is prepared to sustain and recover its essential functions and data through a disaster.
+The organization can identify disruptions quickly, limit their spread, and protect the people affected.
 
 ### Short Title:
 ### Internal Label:
-3.6
+3.7
 
 ### Description:
-Disasters take many forms: a ransomware attack, a flood, political unrest, or the sudden loss of key technology vendors. What they have in common is that they arrive without warning and test whether the organization has thought carefully enough about what it cannot afford to lose or stop doing. Organizations that wait until a disaster occurs to figure this out face compounding consequences: not only are they dealing with the immediate disruption, they are making critical decisions under pressure without a clear picture of what matters most or who is authorized to act. The organizations that recover well are those that understood their priorities before anything went wrong.
+Disruptions arrive without warning, and the organizations that handle them well are almost never the ones that figured out their response on the fly. Whether the trigger is a ransomware attack, a data breach, a flood, or political unrest, the same pattern plays out when no plan exists: critical time is lost establishing who is responsible, who has authority to act, and what needs to happen first, while the situation continues to unfold. A response plan does not need to be elaborate to be effective, but it does need to exist before it is needed, be understood by the people expected to carry it out, and account for the full range of people who may be affected, not just the organization's systems.
 
-Outcomes in this section aim to show whether the organization has a clear and practiced understanding of the functions, data, and processes it cannot afford to lose, whether it has the capacity to continue or restore them under difficult conditions including reduced staffing, and whether the people responsible for carrying that work forward know what is expected of them and have the authority to act.
-
+Outcomes in this section aim to show whether the organization is genuinely prepared to recognize and contain disruptions before they compound. This includes whether staff know their roles and have clear authority to act, whether planning extends beyond operational systems to the broader harms that incidents can create for staff, constituents, and partners, and whether the organization has identified where it will turn for outside support when its own capacity is not enough.
 
 ### Outcomes
-- X: The organization knows what Essential Functions must be continued through a disruption, or restored as soon as possible in order to continue the critical functioning of the organization as a whole.
-- X: Essential Functions include those required to address relevant safety, wellness, security, and operational risks that may arise during/after a disaster.
-- X: The organization has the ability to continue and/or restore Essential Functions during disasters.
-- X: The organization knows what Mission Critical Functions cannot be interrupted for more than a short period without significantly impacting the organizations mission.
-- X: The organization has the ability to continue and/or restore Mission Critical Functions during disasters.
-- X: The organization has an accurate understanding of what Critical Documents and Data are required to continue the critical functioning of the organization and meet its legal, regulatory, and operational obligations.
-- X: The organization has the ability to recover all Critical Documents and Data after a disaster.
-- X: Staff at all levels understand what, if any, additional authority, agency, or flexibility they have to make decisions during disasters in order to continue to carry out Essential or Mission Critical Functions.
-- X: The organization can implement essential disaster recovery processes with limited staff available, or a loss of key personnel.
+- X: The organization can recognize when a security incident or operational disruption is occurring or has occurred.
+- X: When an incident or disruption occurs, the organization acts promptly to contain it and protect essential functions, preventing further spread or impact.
+- X: Staff understand their roles, responsibilities, and decision-making authority during incidents and disruptions, including any additional authority they have when standard processes cannot be followed.
+- X: Response planning accounts for how incidents and disruptions may create or compound Broader Risks for staff, constituents, and partners, including those with differing risk profiles.
+- X: The organization has identified external resources (security organizations, consultants, peer networks, CERTs) they can reach out to for support during incidents or operational disruptions.
 
 
-### REFERENCES
-Business Continuity Planning For Nonprofits - https://www.sbfoundation.org/wp-content/uploads/2020/03/Basic-Continuity-Planning-for-Nonprofits-FINAL.pdf
+## 3.8
+### Objective Title:
+The organization can restore critical functions and data after a disruption and meet its obligations to everyone affected.
+
+### Short Title:
+### Internal Label:
+3.8
+
+### Description:
+Containing a disruption and recovering from one are different challenges, and organizations that conflate them often find themselves surprised by the second. Containment stops the immediate harm; recovery is the harder, slower work of restoring what matters and fulfilling obligations to everyone affected. Organizations that haven't thought carefully about what they cannot afford to lose before a disruption occurs are forced to make those decisions under pressure, with incomplete information, and sometimes with reduced staff. The result is not just a slower recovery but one that is more likely to miss something critical, whether that is a legal obligation, a vulnerable constituent, or a function that was quietly holding other things together.
+
+Outcomes in this section aim to show whether the organization has a clear and practiced understanding of its most critical functions and data, and whether it has the capacity to restore them under difficult conditions. This includes whether recovery planning accounts for the full range of harms a disruption can cause, not just operational ones; whether the people and communities the organization works with are kept informed; and whether the organization is connected to a broader network of peers it can learn from and contribute to before, during, and after a crisis.
+
+### Outcomes
+- X: The organization has a clear, documented, and current understanding of the functions, data, and processes it cannot afford to lose or stop, including those required to manage safety and security risks during an incident or disruption.
+- X: The organization has the ability to continue or restore all identified critical functions/processes and recover all critical data and documents during or after a disaster.
+- X: The organization can implement recovery processes with limited staff or following the loss of key personnel.
+- X: Affected staff, constituents, partners, and beneficiaries are informed when incidents or disruptions may affect their data, privacy, safety, or wellbeing.
+- X: The organization exchanges threat intelligence and related security practices with constituents, partners, and peers to prevent or prepare for similar events.
+- X: Recovery planning explicitly addresses safety, wellness, and security risks that may arise during or immediately after a disruption, not just operational restoration.
