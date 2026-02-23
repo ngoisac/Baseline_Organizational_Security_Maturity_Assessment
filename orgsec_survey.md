@@ -65,8 +65,7 @@ Outcomes in this section aim to show whether the organization has a clear, commu
 
 ### Outcomes
 - X: The organization has identified appropriate systems to carry out its various work processes.
-- X: Staff know which systems should be used to carry out their work processes.
-- X: Staff only use the approved systems to carry out their work.
+- X: Staff know and use approved systems to carry out their work processes.
 - X: The organization is aware of ALL the software and systems that are being used to carry out its work.
 - X: The organization is able to quickly identify if unapproved software or systems start to be used.
 - X: The organization periodically and reactively reevaluates the appropriateness of its systems.
