@@ -43,6 +43,7 @@ Outcomes in this section aim to show whether staff have access to the training t
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
 - X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
 - X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
+- X: Staff at all levels can identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
 
 
 ### References
@@ -259,11 +260,7 @@ Outcomes in this section aim to show whether the organization maintains control 
 - X: New staff receive the accounts and access they need to begin work in a timely manner.
 - X: Only authorized users, services, and hardware have access to our systems and information.
 - X: Staff who leave the organization no longer have access to organizational systems and data.
-- X: Organizational data on departing staff or volunteers' devices is either transferred to the organization or securely deleted.
-- X: Responsible operational staff across different functions (HR, IT, managers, security) coordinate to complete onboarding and offboarding tasks.
-- X: The organization tracks completion of onboarding and offboarding tasks to ensure nothing is missed.
-- X: Inappropriate accounts and access permissions are identified and addressed before they can create unnecessary risk.
-- X: Staff across the organization can recognize inappropriate access or accounts and know how to address it.
+- X: Inappropriate access or accounts are identified and addressed before they can create unnecessary risk.
 - X: The organization can access any data or accounts created in the course of its work, regardless of the status or cooperation of any individual staff member.
 - X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
 
