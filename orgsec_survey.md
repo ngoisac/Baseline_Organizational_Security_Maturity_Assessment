@@ -166,8 +166,7 @@ Technical support can be sourced in many ways: dedicated staff, shared services,
 Outcomes in this section aim to show whether the organization has genuine internal ownership of its technical operations. Not just someone who handles day-to-day problems, but someone with the responsibility, time, and authority to direct providers, oversee improvements, and ensure technical systems continue to serve the organization's needs and risk management approach.
 
 ### Outcomes
-- X: System upgrades and infrastructure improvements are owned and overseen internally, even when the technical work is carried out by others.
-- X: External technical providers are directed and overseen by someone with designated internal responsibility, not left to operate independently.
+- X: System maintenance, upgrades, and infrastructure improvements are owned and overseen by someone with designated internal responsibility, even when the technical work is carried out by others.
 - X: The organization maintains staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
 - X: Technical decisions are aligned with the organization's broader approach to managing risk.
 - X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
