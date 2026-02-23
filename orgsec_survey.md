@@ -30,11 +30,9 @@ training and learning
 1.1
 
 ### Description:
-New tools, updated processes, and changes to how work gets done all require staff to learn something new. Without consistent, accessible training, even well-designed systems and processes fail in practice because the people using them are left to figure things out on their own. The problem compounds over time: staff who never received proper training pass on incomplete knowledge to others, workarounds become normalized, and security practices erode not because people chose to ignore them but because nobody ever showed them how to follow them correctly.
+Without consistent, accessible training, even well-designed systems and processes fail in practice. Staff who never received proper training pass on incomplete knowledge, workarounds become normalized, and security practices erode not because people chose to ignore them, but because nobody showed them how to follow them correctly. Training that is outdated or pitched at the wrong level creates the same problem through a different path.
 
-Security training and awareness raising is only effective against current threats when it is relevant, current, and frequent enough to keep pace with that reality. It is only effective against emergent threats when it treats staff as capable of understanding and responding to real threats, not just following procedures.
-
-Outcomes in this section aim to show whether staff have access to the training they need to use organizational systems and follow organizational processes effectively and securely, whether that training stays current and relevant as things change, and whether it is designed to meet staff where they are rather than applying a single approach to everyone.
+Outcomes in this section aim to show whether staff have access to training that fits their role and skill level, stays current as systems and risks change, and builds enough real understanding that staff can make sound decisions in situations their training didn't explicitly cover, including during an actual incident.
 
 ### Outcomes
 - X: Staff are provided training on systems, processes, and security controls they are expected to use.
@@ -59,9 +57,9 @@ Asset & Process Management
 1.2
 
 ### Description:
-When staff use personal accounts, unofficial tools, or systems the organization doesn't know about, the organization loses the ability to protect the information moving through them. Security depends on visibility: you cannot back up, monitor, or secure what you don't know exists. The problem is rarely deliberate; staff turn to familiar personal tools when approved ones are unclear, unavailable, or not communicated. The result is a fragmented environment where information is scattered across systems the organization cannot access, administer, or protect.
+When staff use personal accounts or tools the organization doesn't know about, the organization loses the ability to protect the information moving through them. You cannot back up, monitor, or secure what you don't know exists. The problem is rarely deliberate, but it compounds when approved systems are unclear or when tools that once made sense are never revisited as the organization's work and risks evolve.
 
-Outcomes in this section aim to show whether the organization has a clear, communicated set of approved systems for its work, whether staff know and follow them, and whether the organization maintains enough visibility into how its information is being managed to catch it quickly when something falls outside those boundaries.
+Outcomes in this section aim to show whether the organization has identified appropriate systems for its work, whether staff know and use them, whether leadership has a complete picture of what is actually in use, and whether that picture gets updated over time.
 
 ### Outcomes
 - X: The organization has identified appropriate systems to carry out its various work processes.
@@ -78,9 +76,9 @@ Clear stakeholder responsibilities and limitation
 1.4
 
 ### Description:
-Policies and procedures are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. An organization that relies on compliance alone creates a fragile security posture: staff who don't understand the reasoning behind a policy cannot adapt when circumstances change, and those who face situations their training didn't cover have no basis for making the right call. At the same time, policies that don't account for the real differences in staff circumstances, contexts, and risk profiles will be applied unevenly or quietly ignored by those they don't fit.
+Standardized policies and procedures are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. Compliance alone creates a fragile posture: staff who don't understand the reasoning behind a rule cannot adapt when circumstances change, and policies and procedures that ignore real differences in staff risk profiles and contexts will be applied unevenly or quietly abandoned.
 
-Outcomes in this section aim to show whether staff understand their responsibilities, the risks those responsibilities are designed to address, and the boundaries of their decision-making authority, and whether the organization's policies and processes are flexible and equitable enough to work for everyone expected to follow them.
+Outcomes in this section aim to show whether staff understand their responsibilities and the reasoning behind them, whether they know the boundaries of their own decision-making authority, whether they can recognize when a control is doing more harm than good, and whether the organization's expectations are workable for everyone expected to meet them.
 
 ### Outcomes
 - X: Staff understand what their work requires of them and why the processes and policies guiding that work exist.
@@ -98,9 +96,9 @@ The organization takes a coordinated, inclusive, and adaptive approach to managi
 1.6
 
 ### Description:
-Organizations that manage risks in silos often find that a decision made to reduce risk in one area quietly creates it in another, and that duplicated, disconnected controls consume resources without making anyone safer. Including the people closest to the work produces risk management that is more accurate, more trusted, and less likely to be worked around. When those affected by risk decisions are genuinely included in them, the result is a shared understanding that makes risk strategies more credible, more accurate, and more likely to be followed. A coordinated, inclusive approach produces a more accurate picture of risk, eliminates redundant controls, and keeps security from becoming an obstacle to the work it is meant to protect.
+Organizations that manage risks in silos often find that a decision made to reduce risk in one area quietly creates it in another. But coordination alone isn't enough. Risk management that excludes the people closest to the work produces strategies that are less accurate, less trusted, and more likely to be worked around. And an approach that treats risk as a fixed, settled question will drift out of step with an organization's actual context, activities, and threat environment over time.
 
-Outcomes in this section aim to show whether the organization understands and manages its risks as interconnected concerns rather than isolated problems, whether the people affected by risk decisions have genuine input into them, and whether the organization's approach to risk remains grounded in an honest and current picture of what it and the people it works with are actually willing and able to accept.
+Outcomes in this section aim to show whether risk decisions account for their broader effects across the organization, whether staff at all levels have genuine input into decisions that affect their work, whether the organization's understanding of risk stays current as circumstances change, and whether the people affected by risk decisions, including staff, partners, and constituents, are informed and consulted rather than exposed without their knowledge.
 
 ### Outcomes
 - X: Risk management decisions in one area are evaluated for their potential impact on management of Broader Risks.
@@ -123,14 +121,14 @@ Budget
 2.1
 
 ### Description:
-Security is not a one-time purchase. It requires sustained investment in equipment, software, and support to remain effective as technology ages, threats evolve, and organizations change. Organizations that treat technology spending as a periodic, one-off expense rather than a predictable operational cost tend to fall behind on device replacement, skip necessary software, and leave staff without adequate support. The result is not just outdated tools but a security posture that quietly erodes over time.
+Security is not a one-time purchase. Organizations that treat technology spending as periodic rather than predictable tend to fall behind on equipment, skip necessary software, and leave staff without adequate support, sometimes pushing them onto personal devices and external systems the organization cannot secure.
 
-Outcomes in this section aim to show that the organization treats technology spending as a recurring, planned commitment rather than an afterthought.
+Outcomes in this section aim to show whether the organization treats technology spending as a recurring, planned commitment that accounts for varied staff needs and honestly reflects what happens when resources fall short.
 
 ### Outcomes
 - X: The organization has a dedicated, recurring budget line item that covers technology costs including hardware, software, support, and training.
 - X: Technology budget planning accounts for the different equipment, connectivity, and support needs of staff across roles, locations, and personal circumstances.
-- X: Technology budget decisions consider the security implications of staff using personal equipment or connections when organizational resources are insufficient.
+- X: Technology budget decisions consider the security implications of staff using personal equipment or external systems when organizational resources are insufficient.
 
 ## 2.2
 ### Objective Title:
@@ -140,9 +138,9 @@ Have regular and adequate technical support provided either by staff assigned vi
 2.2
 
 ### Description:
-Technical support is not a luxury; it is the foundation that everything else depends on. Without reliable, knowledgeable support, systems go unprotected, staff work around problems rather than solving them, and security improvements never get off the ground. The same support that keeps day-to-day operations running is also what makes it possible to identify threats, respond to incidents, and adapt to changing conditions. How that support is provided matters less than whether it actually exists and is capable of meeting the organization's needs.
+Good technical support keeps an organization running. When support is slow, unclear, or unassigned, staff work around problems rather than solving them, small issues grow into larger ones, and nobody is sure who is responsible when something goes wrong.
 
-Outcomes in this section aim to show whether staff have access to technical support that keeps them working effectively and securely, whether problems get resolved rather than recurring, and whether the people providing that support understand the organization's work and risk context well enough to protect it.
+Outcomes in this section aim to show whether systems stay operational when staff need them, whether issues get resolved quickly enough to avoid disrupting work, and whether responsibility for providing that support is clearly defined.
 
 ### Outcomes
 - X: Systems remain operational and available when staff need them to do their work.
@@ -159,9 +157,9 @@ The organization maintains designated internal ownership of its technical operat
 2.3
 
 ### Description:
-Technical support can be sourced in many ways: dedicated staff, shared services, outside consultants, or some combination. But no arrangement works well without someone on staff who owns the results. Without designated internal ownership, vendor relationships drift, upgrades get delayed, and security initiatives stall because no one has the time or authority to drive them forward. The risk is not just operational: an organization that cannot direct and evaluate its own technical environment cannot make informed decisions about whether it is secure, well-served, or aligned with its mission.
+Technical support can be sourced in many ways, but no arrangement works well without someone on staff who owns the results. When that internal ownership is missing, vendor relationships drift, upgrades stall, and no one has the standing to recognize when systems are no longer working for the organization.
 
-Outcomes in this section aim to show whether the organization has genuine internal ownership of its technical operations. Not just someone who handles day-to-day problems, but someone with the responsibility, time, and authority to direct providers, oversee improvements, and ensure technical systems continue to serve the organization's needs and risk management approach.
+Outcomes in this section aim to show whether the organization has designated internal ownership of its technical operations, whether staff understand the environment well enough to spot when something isn't working, and whether that oversight draws on relevant knowledge and experience from the broader sector.
 
 ### Outcomes
 - X: System maintenance, upgrades, and infrastructure improvements are owned and overseen by someone with designated internal responsibility, even when the technical work is carried out by others.
@@ -204,9 +202,9 @@ Security Controls and Practices
 ### Internal Label:
 3.0
 ### Description:
-Security measures that are poorly chosen, blindly copied from elsewhere, or never revisited tend to create one of two problems: controls so burdensome they get ignored, or controls that consume real resources without meaningfully reducing risk. Both leave an organization less secure than it thinks it is. Controls that staff cannot explain, cannot follow, or do not see the purpose of are controls that will not hold.
+Security measures that are poorly chosen, blindly copied from elsewhere, or never revisited tend to create one of two problems: controls so burdensome they get ignored, or controls that consume real resources without meaningfully reducing risk. Both leave an organization less secure than it thinks it is. Controls that staff cannot explain, follow, or see the purpose of are controls that will not hold, and controls that don't account for how staff actually work will be quietly set aside by those they don't fit.
 
-Outcomes in this section aim to show that the organization's security controls are well-matched to its actual risks and the realities of how its people work. This includes whether controls are proportionate, documented, and understood; whether staff have genuine options when standard approaches do not fit their circumstances; and whether the organization draws on and contributes to the broader security community rather than working in isolation.
+Outcomes in this section aim to show whether the organization's controls are grounded in its actual threats and operational realities, whether they are documented and understood well enough to be applied consistently, whether staff have workable alternatives when standard approaches don't fit their circumstances, and whether the organization learns from and contributes to the experience of peers facing similar constraints.
 
 ### Outcomes
 
@@ -226,9 +224,9 @@ The organization maintains oversight and control over who can access its systems
 ### Internal Label:
 3.2
 ### Description:
-Every time someone joins or leaves the organization, the risk landscape shifts. Access that isn't granted carefully can expose systems and data to people who shouldn't have it; access that isn't removed promptly can linger long after someone has departed. The same is true when inappropriate access or behavior goes unnoticed. The organization loses the ability to put proper protections in place, understand what happened, or remediate any harm that occurred. Oversight and accountability is how an organization ensures that what people can access and do in its systems stays appropriately matched to the level of risk their staff, constituents, participants, and beneficiaries have accepted when working with them.
+Every time someone joins, changes roles, or leaves the organization, the risk landscape shifts. Access that isn't granted carefully can expose systems to people who shouldn't have it; access that isn't removed promptly can linger long after someone has departed. Without visibility into who has access and what they are doing with it, the organization cannot recognize when something has gone wrong or understand what happened after the fact.
 
-Outcomes in this section aim to show whether the organization maintains control over staff members data, access, and capabilities across the full arc of their relationship with it and whether it has the visibility to recognize and act on inappropriate access or behavior before it causes harm.
+Outcomes in this section aim to show whether the organization maintains control over who can access its systems and data across the full arc of a staff member's relationship with it, whether inappropriate access is identified and addressed before it causes harm, and whether the organization retains both the access it needs to its own accounts and data and the ability to trace actions back to the individuals who took them.
 
 ### Outcomes
 - X: New staff receive the accounts and access they need to begin work in a timely manner.
@@ -248,9 +246,9 @@ Access and Capability Management
 3.5
 
 ### Description:
-Security works best when it fits naturally into how people do their jobs, not when it creates extra steps, workarounds, or confusion. This section assesses how well your organization matches access and capabilities to the people who need them. It looks at if staff have what they need to do their work, if higher-risk information and systems are appropriately protected, and if the is being done in a way that is maintainable.
+Security works best when it fits naturally into how people do their jobs. When it doesn't, staff find workarounds, and the organization ends up with a security posture it only thinks it has. The same risk runs in the other direction: access and capabilities that are too broad, too narrow, or too complicated to manage create unnecessary exposure or friction that slows work down.
 
-Outcomes in this section aim to show if staff can do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and if staff are unlikely to not feel the need to implement workarounds or shadow IT to do their work both safely and effectively.
+Outcomes in this section aim to show whether staff can do their jobs effectively without enabling actions that create unnecessary risk, whether they have access to what they need and respect appropriate boundaries around what they don't, and whether account structures make that balance straightforward to maintain over time.
 
 ### Outcomes
 - X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
