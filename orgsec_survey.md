@@ -67,9 +67,9 @@ Outcomes in this section aim to show whether the organization has a clear, commu
 - X: The organization has identified appropriate systems to carry out its various work processes.
 - X: Staff know which systems should be used to carry out their work processes.
 - X: Staff only use the approved systems to carry out their work.
-- X: The organization is aware of ALL the systems that are being used to carry out its work.
-- X: The organization is able to quickly identify if unapproved systems start to be used.
-- X: The organization reevaluates the appropriateness of its systems and processes.
+- X: The organization is aware of ALL the software and systems that are being used to carry out its work.
+- X: The organization is able to quickly identify if unapproved software or systems start to be used.
+- X: The organization periodically and reactively reevaluates the appropriateness of its systems.
 
 ## 1.4
 ### Objective Title:
@@ -175,8 +175,6 @@ Outcomes in this section aim to show whether the organization has genuine intern
 - X: The organization maintains staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
 - X: Technical decisions are aligned with the organization's broader approach to managing risk.
 - X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
-- X: Staff at all levels are supported in initiating evaluations of systems which they have identified as "Inappropriate."
-
 
 ## 2.4
 ### Objective Title:
@@ -288,7 +286,6 @@ The information that lives on and moves through organizational devices carries r
 Outcomes in this section aim to show whether the organization has the visibility, tools, and capacity to keep its devices trustworthy. This includes knowing what is installed and how things are configured, being able to identify and act on problems in a reasonable timeframe, having measures in place to protect devices; and ensuring that staff feel they can depend on their devices to safely and securely carry out their work.
 
 ### Outcomes
-- X: The organization knows what software is installed on organizational devices.
 - X: The organization can identify devices and software that are running outdated versions or are configured insecurely.
 - X: Devices prevent installation or execution of malicious software.
 - X: When devices are identified as out of date, insecure, or untrustworthy, the organization has the capacity to take action in a reasonable timeframe.
