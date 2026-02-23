@@ -259,11 +259,10 @@ Outcomes in this section aim to show whether the organization maintains control 
 ### Outcomes
 - X: New staff receive the accounts and access they need to begin work in a timely manner.
 - X: Only authorized users, services, and hardware have access to our systems and information.
-- X: Staff who leave the organization no longer have access to organizational systems and data.
 - X: Inappropriate access or accounts are identified and addressed before they can create unnecessary risk.
+- X: Staff who leave the organization no longer have access to organizational systems and data.
 - X: The organization can access any data or accounts created in the course of its work, regardless of the status or cooperation of any individual staff member.
 - X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
-
 
 ## 3.3
 ### Objective Title:
