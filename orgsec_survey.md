@@ -347,20 +347,19 @@ Outcomes in this section aim to show if staff can do their jobs and be secure si
 
 ## 3.6
 ### Field Label:
-Disaster recovery
+The organization is prepared to sustain and recover its essential functions and data through a disaster.
 
 ### Short Title:
 ### Internal Label:
 3.6
 
 ### Supporting Text:
-Have a disaster recovery plan that includes making and testing regular backups of organizational data that are stored at at least two locations. Backup drives should at a minimum be stored in a physically secure location like a locking file cabinet or safety deposit box, and ideally encrypted so that only you can access them. The storage location is especially critical for keeping backups in peoples' homes and your organization should invest in resources (safes, lock boxes, etc.) to support safe storage in personal homes.  Do not rely exclusively on third parties to back up and hold your information.
+Disasters take many forms: a ransomware attack, a flood, political unrest, or the sudden loss of key technology vendors. What they have in common is that they arrive without warning and test whether the organization has thought carefully enough about what it cannot afford to lose or stop doing. Organizations that wait until a disaster occurs to figure this out face compounding consequences: not only are they dealing with the immediate disruption, they are making critical decisions under pressure without a clear picture of what matters most or who is authorized to act. The organizations that recover well are those that understood their priorities before anything went wrong.
 
-Risks to be taken into account encompass those stemming from natural hazards, neighboring entities, built environments, political or social unrest, as well as risks associated with IT and data security.
+Outcomes in this section aim to show whether the organization has a clear and practiced understanding of the functions, data, and processes it cannot afford to lose, whether it has the capacity to continue or restore them under difficult conditions including reduced staffing, and whether the people responsible for carrying that work forward know what is expected of them and have the authority to act.
+
 
 ### Outcomes
-
-Identification
 - X: The organization knows what Essential Functions must be continued through a disruption, or restored as soon as possible in order to continue the critical functioning of the organization as a whole.
 - X: Essential Functions include those required to address relevant safety, wellness, security, and operational risks that may arise during/after a disaster.
 - X: The organization has the ability to continue and/or restore Essential Functions during disasters.
