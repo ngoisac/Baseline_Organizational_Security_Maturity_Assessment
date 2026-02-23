@@ -45,14 +45,18 @@ Outcomes in this section aim to show whether staff have access to the training t
 
 ## 1.2
 ### Field Label:
-Have a common and clearly communicated set of information systems that are administered by the organization and used with defined processes; ensure that all staff follow these processes effectively and are not using other systems for their work.
+The organization knows what systems are in use and ensures staff work within approved boundaries.
 
 ### Short Title:
 Asset & Process Management
+
 ### Internal Label:
 1.2
 
 ### Supporting Text:
+When staff use personal accounts, unofficial tools, or systems the organization doesn't know about, the organization loses the ability to protect the information moving through them. Security depends on visibility: you cannot back up, monitor, or secure what you don't know exists. The problem is rarely deliberate; staff turn to familiar personal tools when approved ones are unclear, unavailable, or not communicated. The result is a fragmented environment where information is scattered across systems the organization cannot access, administer, or protect.
+
+Outcomes in this section aim to show whether the organization has a clear, communicated set of approved systems for its work, whether staff know and follow them, and whether the organization maintains enough visibility into how its information is being managed to catch it quickly when something falls outside those boundaries.
 
 ### Outcomes
 - X: The organization has identified appropriate systems to carry out its various work processes.
@@ -60,8 +64,7 @@ Asset & Process Management
 - X: Staff only use the approved systems to carry out their work.
 - X: The organization is aware of ALL the systems that are being used to carry out its work.
 - X: The organization is able to quickly identify if unapproved systems start to be used.
-- X: Staff at all levels are supported in initiating evaluations of systems which they have identified as "Inappropriate."
-- X: TODO: The organization reevaluates the appropriateness of its systems and processes.
+- X: The organization reevaluates the appropriateness of its systems and processes.
 
 ## 1.4
 ### Field Label:
