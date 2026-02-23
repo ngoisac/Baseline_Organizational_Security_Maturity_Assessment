@@ -32,15 +32,21 @@ training and learning
 ### Description:
 New tools, updated processes, and changes to how work gets done all require staff to learn something new. Without consistent, accessible training, even well-designed systems and processes fail in practice because the people using them are left to figure things out on their own. The problem compounds over time: staff who never received proper training pass on incomplete knowledge to others, workarounds become normalized, and security practices erode not because people chose to ignore them but because nobody ever showed them how to follow them correctly.
 
+Security training and awareness raising is only effective against current threats when it is relevant, current, and frequent enough to keep pace with that reality. It is only effective against emergent threats when it treats staff as capable of understanding and responding to real threats, not just following procedures.
+
 Outcomes in this section aim to show whether staff have access to the training they need to use organizational systems and follow organizational processes effectively and securely, whether that training stays current and relevant as things change, and whether it is designed to meet staff where they are rather than applying a single approach to everyone.
 
 ### Outcomes
-- X: Staff are provided training on systems and processes they are expected to use.
+- X: Staff are provided training on systems, processes, and security controls they are expected to use.
 - X: Staff are provided refresher training on relevant topics.
-- X: Staff are only required to train on the topics which are relevant to their current skill level or role.
-- X: Training materials are available in multiple formats so staff can learn in a way that works best for them.
-- X: Staff at all levels provide feedback which is used to refine training efforts to be more effective.
 - X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
+- X: Staff are only required to train on the topics which are relevant to their current skill level or role.
+- X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
+- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
+
+
+### References
+- Security Culture Maturity Roadmap - https://www.ivoryware.com/Security-Culture-Maturity-Roadmap-821fe093d6ba4d499e232c7a0e5fbff9
 
 ## 1.2
 ### Objective Title:
@@ -292,34 +298,6 @@ Outcomes in this section aim to show whether the organization has the visibility
 
 #### References
 - Honest Security:  https://honest.security/
-
-## 3.4
-
-### Objective Title:
-Staff are aware of relevant security risks and practices
-
-### Short Title:
-Security Training
-
-### Internal Label:
-3.4
-
-### Description:
-Threats are constantly evolving as bad actors actively respond to changes in the context and the awareness of their tactics. Security training and awareness raising is only effective against current threats when it is relevant, current, and frequent enough to keep pace with that reality. It is only effective against emergent threats when it treats staff as capable of understanding and responding to real threats, not just following procedures.
-
-Outcomes in this section aim to show if security training covers the systems, contexts, and threats most relevant to your staff, and whether it is designed to have the greatest overall impact.
-
-### Outcomes
-- X: Staff know how to effectively carry out all relevant security practices.
-- X: When new security controls are introduced, staff receive practical support to implement them correctly, not just notification that they are required.
-- X: Staff trained on organizational systems or processes have received relevant information about related risks and security practices.
-- X: Staff understand the risks that security policies, processes, and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
-- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
-- X: Staff are prepared to identify and protect against current and emerging threats targeting organizations and groups who have similar contexts, processes, technologies, or goals.
-- X: The organization's training library is enriched by materials sourced from, vetted by, or produces with its peer community.
-
-### References
-- Security Culture Maturity Roadmap - https://www.ivoryware.com/Security-Culture-Maturity-Roadmap-821fe093d6ba4d499e232c7a0e5fbff9
 
 ## 3.5
 ### Objective Title:
