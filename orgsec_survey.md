@@ -82,7 +82,6 @@ Outcomes in this section aim to show whether staff understand their responsibili
 - X: Staff follow approved processes to carry out their work.
 - X: Staff understand their responsibilities when using systems.
 - X: Staff understand their roles and responsibilities in policies and processes.
-- X: Staff understand the specific risks the policies and processes they implement are mitigating.
 - X: Exceptions to policies are documented and justified transparently.
 - x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
 - X: Staff understand the scope of their decision-making authority.
@@ -220,7 +219,6 @@ Outcomes in this section aim to show that the organization's security controls a
 - X: Security controls that do not clearly reduce risk in a practical, understood way are removed or simplified.
 - X: Security controls and the reasoning behind them are documented in a way that allows staff to understand, apply, and maintain them.
 - X: Staff at all levels are supported to identify and adopt appropriate alternative controls when standard security controls are inappropriate for their workflow, context, or risk profile.
-- X: Staff are educated about risks which security controls are intended to impact in ways that enable them to make informed decisions rather than simply being told what to do.
 - X:  The organization develops security controls and configurations collaboratively with peer organizations facing similar operational contexts, systems, threats, or resource constraints.
 - X: The organization shares its security configurations, policies, and implementation guidance with peer organizations that could benefit from them.
 
@@ -318,7 +316,7 @@ Outcomes in this section aim to show if security training covers the systems, co
 - X: Staff know how to effectively carry out all relevant security practices.
 - X: When new security controls are introduced, staff receive practical support to implement them correctly, not just notification that they are required.
 - X: Staff trained on organizational systems or processes have received relevant information about related risks and security practices.
-- X: Staff understand enough about the risks security practices address to make good security decisions, even in situations their training didn't explicitly cover.
+- X: Staff understand the risks that security policies, processes, and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
 - X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff are prepared to identify and protect against current and emerging threats targeting organizations and groups who have similar contexts, processes, technologies, or goals.
 - X: The organization's training library is enriched by materials sourced from, vetted by, or produces with its peer community.
