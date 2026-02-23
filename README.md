@@ -5,21 +5,35 @@ This assessment tool is meant to help organizations identify where their most cr
 
 This survey is a fork of the [Organizational Security Assessment Tool COVID-19 Edition](https://0xacab.org/iecology/orgsec-assessment/) and the [Digital Security Readiness Assessment Tool](https://0xacab.org/iecology/security-checklists) created by Jonah Silas Sheridan, Lisa Jervis for [Information Ecology](https://iecology.org/).
 
-
 ## Deploying this survey content yourself
 This repository only contains the adaptations NGO-ISAC made to the source content. It does not include any code to deploy this content as a survey.
 
-
-
 ## Outcome Scores
+Outcome Scores measure an organization based on how they evaluate themselves against a series of Outcome statements. These, when added together, show the organizations ability to achieve each Maturity Objective. Outcome statements reflect the intermediate, tangible and intangible behavioral or systemic changes resulting from an organizations information security related efforts. By focusing on outcomes (instead of the maturity of your processes) this assessment aims to help you assess if an organizations efforts are having the intended changes, effects, or benefits.
 
-Outcome Scores are a series of "outcome" based statements which, when added together, show the organizations ability to achieve each Maturity Objective.
+## How Evaluation is done
+A respondent evaluates if their organizations is accomplishing an Outcome by choosing one item on the following scale.
+- Never
+- Rarely
+- Most the time
+- Always
+- I don't know
 
-Objectives are composed of two types of outcome statements. "BASELINE," outcome statements that show that the short-term baseline functionality has been accomplished. "CARE," outcome statements that reflect an organizations commitment to ensure the safety and well-being of employees and others.
+"I don't know" should be the default answer to make the assessment a quicker process and identify areas that an organization can prioritize building their understanding of.
 
-### Care Outcomes Themes
-"CARE," outcome statements reflect an organizations commitment to ensure the safety and well-being of employees and others. These statements, generally speaking, reflect one or more of the following areas of safety/well-being.
+*NOTE:* For the initial release of the survey an additional "I don't understand" item will be added to the Outcome scale to allow members to flag items which they think are confusing or misleading.
 
+## Outcome Statement Types
+
+There are two general categories of outcome statements included in the survey. "BASELINE," outcome statements that show that the short-term baseline functionality has been accomplished. "CARE," outcome statements that reflect an organizations commitment to ensure the safety and well-being of employees and others.
+
+### BASELINE Outcomes
+"BASELINE," outcome statements aim to show that the short-term baseline functionality has been accomplished. If these outcomes are not achieved the Objective is not being met.
+
+### CARE Outcomes Themes
+"CARE," outcome statements reflect an organizations commitment to ensure the safety and well-being of employees and others. These outcomes reflect practices which improve the impact or ensure the efficacy of an organizations security readiness efforts.
+
+Many, but not all, of the CARE outcomes reflect one or more of the following thematic areas of security program best practices.
 
 #### Multi-Level Leadership
 
@@ -66,7 +80,6 @@ WHY: (TODO)
 WHAT: Staff, constituent, participant, and beneficiary security, safety, and wellbeing are impacted by the interplay between where they are, the work they do, who they are, and their association with the organization and its activities. Inclusive security risk management approaches look to protect those involved with their work from foreseeable risks, including those that emerge due to their personal characteristics – for example, biological sex, gender, ethnicity, socio‑economic status, cognitive and physical abilities, or sexual orientation.
 
 WHY: Not understanding how context and personal profile characteristics impact personal security and well-being can have implications for the security of those individuals, the goals they are working towards, and the organization as a whole.  An individuals unique profile or circumstances can (sometimes dramatically) change the actual likelihood/impact of risks or the efficacy of identified mitigations. (For example, risk management around staff BYOD devices often only consider the employee as a user on those devices. But, parents who cannot afford a separate computer for their child regularly share their personal computers. Sharing a device with a child dramatically increases the likelihood that the device becomes infected with malware. An inclusive security approach establishes processes to identify and respond to this type of individual profile/context with appropriate mitigations.) Beyond the immediate impacts on individuals, the unidentified flaws created by not considering how the diverse profiles and contexts of key stakeholders impact the accuracy of an organizations risk management efforts can lead to serious security, legal and reputational issues for an organization.
-
 
 ##### References
 - Managing the Security of Aid Workers with Diverse Profiles: https://gisf.ngo/resource/managing-the-security-of-aid-workers-with-diverse-profiles/
