@@ -11,11 +11,10 @@ This assessment tool is meant to help organizations identify where their most cr
 
 The tool is laid out as a number of items to assess broken out across three categories: 1) cultural hallmarks of security success, 2) information technology operations that support security outcomes, 3) digital security baseline capacities. Go through each section one by one.
 
-
 ## Terms used in this survey
 - Systems: This refers to any technologies/tools, systems, or online services which are used to carry out work. This includes devices, software, hosted solutions, third-party hosted solutions, etc.
-- processes: This is the way your work is done. This includes any standard operating procedures, specific workflows, security practices, etc.
-- security practices: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
+- Processes: This is the way your work is done. This includes any standard operating procedures, specific workflows, security practices, etc.
+- Security Practices OR Security Controls: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
 - "Inappropriate" systems or processes: Inappropriate systems or processes are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.”
 - "Appropriate" systems or processes: Appropriate systems or processes are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
 - Broader Risks: The full range of interconnected risks facing an organization and the people it serves; spanning physical, digital, psychosocial, legal, financial, reputational, operational, and other dimensions. When used in this assessment, it signals that the risks being described extend beyond pure information security risks to risks with impacts on mission effectiveness, individual safety or wellbeing, or organizational operations.
@@ -23,14 +22,14 @@ The tool is laid out as a number of items to assess broken out across three cate
 # Section 1: Cultural Hallmarks for Security Success
 
 ## 1.1
-### Field Label:
+### Objective Title:
 Staff have the technology and process knowledge they need to do their work effectively.
 ### Short Title:
 training and learning
 ### Internal Label:
 1.1
 
-### Supporting Text:
+### Description:
 New tools, updated processes, and changes to how work gets done all require staff to learn something new. Without consistent, accessible training, even well-designed systems and processes fail in practice because the people using them are left to figure things out on their own. The problem compounds over time: staff who never received proper training pass on incomplete knowledge to others, workarounds become normalized, and security practices erode not because people chose to ignore them but because nobody ever showed them how to follow them correctly.
 
 Outcomes in this section aim to show whether staff have access to the training they need to use organizational systems and follow organizational processes effectively and securely, whether that training stays current and relevant as things change, and whether it is designed to meet staff where they are rather than applying a single approach to everyone.
@@ -44,7 +43,7 @@ Outcomes in this section aim to show whether staff have access to the training t
 - X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
 
 ## 1.2
-### Field Label:
+### Objective Title:
 The organization knows what systems are in use and ensures staff work within approved boundaries.
 
 ### Short Title:
@@ -53,7 +52,7 @@ Asset & Process Management
 ### Internal Label:
 1.2
 
-### Supporting Text:
+### Description:
 When staff use personal accounts, unofficial tools, or systems the organization doesn't know about, the organization loses the ability to protect the information moving through them. Security depends on visibility: you cannot back up, monitor, or secure what you don't know exists. The problem is rarely deliberate; staff turn to familiar personal tools when approved ones are unclear, unavailable, or not communicated. The result is a fragmented environment where information is scattered across systems the organization cannot access, administer, or protect.
 
 Outcomes in this section aim to show whether the organization has a clear, communicated set of approved systems for its work, whether staff know and follow them, and whether the organization maintains enough visibility into how its information is being managed to catch it quickly when something falls outside those boundaries.
@@ -67,14 +66,14 @@ Outcomes in this section aim to show whether the organization has a clear, commu
 - X: The organization reevaluates the appropriateness of its systems and processes.
 
 ## 1.4
-### Field Label:
+### Objective Title:
 Staff understand what is expected of them, why it matters, and what to do when standard policies and processes don't cover the situation they face.
 ### Short Title:
 Clear stakeholder responsibilities and limitation
 ### Internal Label:
 1.4
 
-### Supporting Text:
+### Description:
 Policies are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. An organization that relies on compliance alone creates a fragile security posture: staff who don't understand the reasoning behind a policy cannot adapt when circumstances change, and those who face situations their training didn't cover have no basis for making the right call. At the same time, policies that don't account for the real differences in staff circumstances, contexts, and risk profiles will be applied unevenly or quietly ignored by those they don't fit.
 
 Outcomes in this section aim to show whether staff understand their responsibilities, the risks those responsibilities are designed to address, and the boundaries of their decision-making authority, and whether the organization's policies and processes are flexible and equitable enough to work for everyone expected to follow them.
@@ -91,13 +90,13 @@ Outcomes in this section aim to show whether staff understand their responsibili
 
 
 ## 1.6
-### Field Label:
+### Objective Title:
 The organization takes a coordinated, inclusive, and adaptive approach to managing risks.
 ### Short Title:
 ### Internal Label:
 1.6
 
-### Supporting Text:
+### Description:
 Organizations that manage risks in silos often find that a decision made to reduce risk in one area quietly creates it in another, and that duplicated, disconnected controls consume resources without making anyone safer. Including the people closest to the work produces risk management that is more accurate, more trusted, and less likely to be worked around. When those affected by risk decisions are genuinely included in them, the result is a shared understanding that makes risk strategies more credible, more accurate, and more likely to be followed. A coordinated, inclusive approach produces a more accurate picture of risk, eliminates redundant controls, and keeps security from becoming an obstacle to the work it is meant to protect.
 
 Outcomes in this section aim to show whether the organization understands and manages its risks as interconnected concerns rather than isolated problems, whether the people affected by risk decisions have genuine input into them, and whether the organization's approach to risk remains grounded in an honest and current picture of what it and the people it works with are actually willing and able to accept.
@@ -114,14 +113,14 @@ Outcomes in this section aim to show whether the organization understands and ma
 # Section 2:  Information Technology Operations that Support Security Outcomes
 
 ## 2.1
-### Field Label:
+### Objective Title:
 The organization maintains a recurring technology budget that reflects the real costs of keeping staff equipped and supported.
 ### Short Title:
 Budget
 ### Internal Label:
 2.1
 
-### Supporting Text:
+### Description:
 Security is not a one-time purchase. It requires sustained investment in equipment, software, and support to remain effective as technology ages, threats evolve, and organizations change. Organizations that treat technology spending as a periodic, one-off expense rather than a predictable operational cost tend to fall behind on device replacement, skip necessary software, and leave staff without adequate support. The result is not just outdated tools but a security posture that quietly erodes over time.
 
 Outcomes in this section aim to show that the organization treats technology spending as a recurring, planned commitment rather than an afterthought.
@@ -132,13 +131,13 @@ Outcomes in this section aim to show that the organization treats technology spe
 - X: Technology budget decisions consider the security implications of staff using personal equipment or connections when organizational resources are insufficient.
 
 ## 2.2
-### Field Label:
+### Objective Title:
 Have regular and adequate technical support provided either by staff assigned via job description or contracted with outside agencies.
 ### Short Title:
 ### Internal Label:
 2.2
 
-### Supporting Text:
+### Description:
 Technical support is not a luxury; it is the foundation that everything else depends on. Without reliable, knowledgeable support, systems go unprotected, staff work around problems rather than solving them, and security improvements never get off the ground. The same support that keeps day-to-day operations running is also what makes it possible to identify threats, respond to incidents, and adapt to changing conditions. How that support is provided matters less than whether it actually exists and is capable of meeting the organization's needs.
 
 Outcomes in this section aim to show whether staff have access to technical support that keeps them working effectively and securely, whether problems get resolved rather than recurring, and whether the people providing that support understand the organization's work and risk context well enough to protect it.
@@ -154,14 +153,14 @@ Outcomes in this section aim to show whether staff have access to technical supp
 
 
 ## 2.3
-### Field Label:
+### Objective Title:
 The organization maintains designated internal ownership of its technical operations.
 
 ### Short Title:
 ### Internal Label:
 2.3
 
-### Supporting Text:
+### Description:
 Technical support can be sourced in many ways: dedicated staff, shared services, outside consultants, or some combination. But no arrangement works well without someone on staff who owns the results. Without designated internal ownership, vendor relationships drift, upgrades get delayed, and security initiatives stall because no one has the time or authority to drive them forward. The risk is not just operational: an organization that cannot direct and evaluate its own technical environment cannot make informed decisions about whether it is secure, well-served, or aligned with its mission.
 
 Outcomes in this section aim to show whether the organization has genuine internal ownership of its technical operations. Not just someone who handles day-to-day problems, but someone with the responsibility, time, and authority to direct providers, oversee improvements, and ensure technical systems continue to serve the organization's needs and risk management approach.
@@ -176,13 +175,13 @@ Outcomes in this section aim to show whether the organization has genuine intern
 
 
 ## 2.4
-### Field Label:
+### Objective Title:
 All staff have access to adequately powered, regularly updated devices that can support their work and the security requirements that come with it.
 ### Short Title:
 ### Internal Label:
 2.4
 
-### Supporting Text:
+### Description:
 The computers your staff use are the foundation of nearly every security control your organization can put in place. The software used to carry out and secure your day to day work all require processing power to function, and when devices are too old or underpowered to run them reliably, staff will find workarounds that create new risks. Organizations that underinvest in device replacement often discover that security tools meant to protect them become obstacles instead, and that the informal solutions staff adopt in response quietly undermine the controls the organization thought it had. Devices that are adequate for some staff but not others, or that are allocated based on seniority rather than need, create uneven security across the organization.
 
 Outcomes in this section aim to show that all staff have devices capable of supporting their work and the security requirements that come with it. This includes whether devices can run current software and receive security updates, whether the organization has enough visibility and authority to act when devices fall short, and whether provisioning decisions account for the full range of people and circumstances across the organization.
@@ -200,18 +199,16 @@ Outcomes in this section aim to show that all staff have devices capable of supp
 - X: Device security considerations include the risks created by staff using personal devices or workarounds they put in place when organizational devices are inadequate
 - X: Staff understand the implications of using personal devices for work (if BYOD is permitted) including privacy trade-offs and security responsibilities.
 
-
-
 # Section 3:  Digital Security Baseline Capacities
 
 ## 3.0
-### Field Label:
+### Objective Title:
 Security controls are purposeful, practical, and kept current, so they reduce real risk without becoming obstacles to the work.
 ### Short Title:
 Security Controls and Practices
 ### Internal Label:
 3.0
-### Supporting Text:
+### Description:
 Security measures that are poorly chosen, blindly copied from elsewhere, or never revisited tend to create one of two problems: controls so burdensome they get ignored, or controls that consume real resources without meaningfully reducing risk. Both leave an organization less secure than it thinks it is. Controls that staff cannot explain, cannot follow, or do not see the purpose of are controls that will not hold.
 
 Outcomes in this section aim to show that the organization's security controls are well-matched to its actual risks and the realities of how its people work. This includes whether controls are proportionate, documented, and understood; whether staff have genuine options when standard approaches do not fit their circumstances; and whether the organization draws on and contributes to the broader security community rather than working in isolation.
@@ -228,14 +225,14 @@ Outcomes in this section aim to show that the organization's security controls a
 - X: The organization shares its security configurations, policies, and implementation guidance with peer organizations that could benefit from them.
 
 ## 3.1
-### Field Label:
+### Objective Title:
 The organization is prepared to recognize, contain, and recover from security incidents while protecting everyone affected.
 
 ### Short Title:
 incident response planning
 ### Internal Label:
 3.1
-### Supporting Text:
+### Description:
 Every organization faces security risks that cannot be fully prevented. The question is not whether something will go wrong, but whether your organization will be ready when it does. Without a plan in place before an incident occurs, teams waste critical time figuring out who is responsible, how to reach technical support, and what steps to take first, while the situation continues to unfold. An incident response plan does not need to be elaborate to be effective; even a basic, well-communicated plan dramatically improves an organization's ability to contain damage, restore operations, and protect the people affected.
 
 Outcomes in this section aim to show that your organization has the foundational readiness to recognize, respond to, and recover from security incidents. This includes whether staff know their roles before an incident happens, whether the organization can limit harm when one occurs, and whether planning accounts for the full range of people, inside and outside the organization, who may be affected.
@@ -254,13 +251,13 @@ Outcomes in this section aim to show that your organization has the foundational
 
 
 ## 3.2
-### Field Label:
+### Objective Title:
 The organization maintains oversight and control over who can access its systems and what they can do within them.
 
 ### Short Title:
 ### Internal Label:
 3.2
-### Supporting Text:
+### Description:
 Every time someone joins or leaves the organization, the risk landscape shifts. Access that isn't granted carefully can expose systems and data to people who shouldn't have it; access that isn't removed promptly can linger long after someone has departed. The same is true when inappropriate access or behavior goes unnoticed. The organization loses the ability to put proper protections in place, understand what happened, or remediate any harm that occurred. Oversight and accountability is how an organization ensures that what people can access and do in its systems stays appropriately matched to the level of risk their staff, constituents, participants, and beneficiaries have accepted when working with them.
 
 Outcomes in this section aim to show whether the organization maintains control over staff members data, access, and capabilities across the full arc of their relationship with it and whether it has the visibility to recognize and act on inappropriate access or behavior before it causes harm.
@@ -278,13 +275,13 @@ Outcomes in this section aim to show whether the organization maintains control 
 
 
 ## 3.3
-### Field Label:
+### Objective Title:
 Devices used to carry out organizational work are trustworthy, understood, maintained, and protected.
 ### Short Title:
 Device Integrity
 ### Internal Label:
 3.3
-### Supporting Text:
+### Description:
 The information that lives on and moves through organizational devices carries real risk if it is stolen, exposed, or destroyed. Managing that risk starts with devices that can be genuinely trusted, by the people who use them and the organization that depends on them. Building that trust means maintaining a clear picture of what devices are doing, keeping them current and healthy, and ensuring they are actively defended.
 
 Outcomes in this section aim to show whether the organization has the visibility, tools, and capacity to keep its devices trustworthy. This includes knowing what is installed and how things are configured, being able to identify and act on problems in a reasonable timeframe, having measures in place to protect devices; and ensuring that staff feel they can depend on their devices to safely and securely carry out their work.
@@ -303,7 +300,7 @@ Outcomes in this section aim to show whether the organization has the visibility
 
 ## 3.4
 
-### Field Label:
+### Objective Title:
 Staff are aware of relevant security risks and practices
 
 ### Short Title:
@@ -312,7 +309,7 @@ Security Training
 ### Internal Label:
 3.4
 
-### Supporting Text:
+### Description:
 Threats are constantly evolving as bad actors actively respond to changes in the context and the awareness of their tactics. Security training and awareness raising is only effective against current threats when it is relevant, current, and frequent enough to keep pace with that reality. It is only effective against emergent threats when it treats staff as capable of understanding and responding to real threats, not just following procedures.
 
 Outcomes in this section aim to show if security training covers the systems, contexts, and threats most relevant to your staff, and whether it is designed to have the greatest overall impact.
@@ -330,7 +327,7 @@ Outcomes in this section aim to show if security training covers the systems, co
 - Security Culture Maturity Roadmap - https://www.ivoryware.com/Security-Culture-Maturity-Roadmap-821fe093d6ba4d499e232c7a0e5fbff9
 
 ## 3.5
-### Field Label:
+### Objective Title:
 Agility, efficiency, and accountability are achieved by weaving security into roles and workflows, instead of being prevented by layering security on top of them, or by ignoring security all together.
 
 ### Short Title:
@@ -338,7 +335,7 @@ Access and Capability Management
 ### Internal Label:
 3.5
 
-### Supporting Text:
+### Description:
 Security works best when it fits naturally into how people do their jobs, not when it creates extra steps, workarounds, or confusion. This section assesses how well your organization matches access and capabilities to the people who need them. It looks at if staff have what they need to do their work, if higher-risk information and systems are appropriately protected, and if the is being done in a way that is maintainable.
 
 Outcomes in this section aim to show if staff can do their jobs and be secure simultaneously, whether security measures fit the actual risk context, and if staff are unlikely to not feel the need to implement workarounds or shadow IT to do their work both safely and effectively.
@@ -360,14 +357,14 @@ Outcomes in this section aim to show if staff can do their jobs and be secure si
 - PR.AA: Identity Management, Authentication, And Access Control - https://csf.tools/reference/nist-cybersecurity-framework/v2-0/pr/pr-aa/
 
 ## 3.6
-### Field Label:
+### Objective Title:
 The organization is prepared to sustain and recover its essential functions and data through a disaster.
 
 ### Short Title:
 ### Internal Label:
 3.6
 
-### Supporting Text:
+### Description:
 Disasters take many forms: a ransomware attack, a flood, political unrest, or the sudden loss of key technology vendors. What they have in common is that they arrive without warning and test whether the organization has thought carefully enough about what it cannot afford to lose or stop doing. Organizations that wait until a disaster occurs to figure this out face compounding consequences: not only are they dealing with the immediate disruption, they are making critical decisions under pressure without a clear picture of what matters most or who is authorized to act. The organizations that recover well are those that understood their priorities before anything went wrong.
 
 Outcomes in this section aim to show whether the organization has a clear and practiced understanding of the functions, data, and processes it cannot afford to lose, whether it has the capacity to continue or restore them under difficult conditions including reduced staffing, and whether the people responsible for carrying that work forward know what is expected of them and have the authority to act.
