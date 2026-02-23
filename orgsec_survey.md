@@ -195,7 +195,6 @@ Outcomes in this section aim to show that all staff have devices capable of supp
 - X: Device provisioning decisions consider how device security intersects with physical security (especially for remote workers), operational continuity, and staff safety.
 - X: Senior leadership demonstrates compliance with the same policies that apply to all staff.
 - X: Device security considerations include the risks created by staff using personal devices or workarounds they put in place when organizational devices are inadequate
-- X: Staff understand the implications of using personal devices for work (if BYOD is permitted) including privacy trade-offs and security responsibilities.
 
 # Section 3:  Digital Security Baseline Capacities
 
