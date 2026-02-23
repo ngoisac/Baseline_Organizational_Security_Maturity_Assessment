@@ -12,12 +12,14 @@ This assessment tool is meant to help organizations identify where their most cr
 The tool is laid out as a number of items to assess broken out across three categories: 1) cultural hallmarks of security success, 2) information technology operations that support security outcomes, 3) digital security baseline capacities. Go through each section one by one.
 
 ## Terms used in this survey
-- Systems: This refers to any technologies/tools, systems, or online services which are used to carry out work. This includes devices, software, hosted solutions, third-party hosted solutions, etc.
+- Systems: This refers to any technologies/tools, systems, or online services which are used to carry out work. This includes physical devices (laptops, phones, tablets), software on those devices, hosted and online services, third-party applications, etc.
 - Processes: This is the way your work is done. This includes any standard operating procedures, specific workflows, security practices, etc.
-- Security Practices OR Security Controls: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
-- "Inappropriate" systems or processes: Inappropriate systems or processes are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.”
-- "Appropriate" systems or processes: Appropriate systems or processes are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
+- Security Practices/Controls: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
+- Appropriate systems or processes: Appropriate systems or processes (including security controls) are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
+- Inappropriate systems or processes: Inappropriate systems or processes (including security controls) are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.
 - Broader Risks: The full range of interconnected risks facing an organization and the people it serves; spanning physical, digital, psychosocial, legal, financial, reputational, operational, and other dimensions. When used in this assessment, it signals that the risks being described extend beyond pure information security risks to risks with impacts on mission effectiveness, individual safety or wellbeing, or organizational operations.
+- Critical Functions: The activities, processes, and data the organization has determined it cannot afford to lose, pause, or be denied access to without serious harm to its mission, its staff, or the people it serves.
+- Incidents and Disruptions: Used together in this assessment to describe the full range of events that can interrupt or harm an organization's operations, data, staff, or constituents. A security incident typically refers to an event involving unauthorized access, data exposure, or deliberate attack. An operational disruption refers more broadly to any event — including natural disasters, infrastructure failure, or political instability — that prevents the organization from carrying out its work. Many response and recovery practices apply to both.
 
 # Section 1: Cultural Hallmarks for Security Success
 
@@ -39,7 +41,7 @@ Outcomes in this section aim to show whether staff have access to training that 
 - X: Staff are provided refresher training on relevant topics.
 - X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
-- X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
+- X: Staff understand the risks that security and safety practices/controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
 - X: The organization has evidence that staff can perform their assigned incident response and crisis management roles under realistic (simulated) conditions.
 
 
@@ -51,7 +53,7 @@ Outcomes in this section aim to show whether staff have access to training that 
 The organization knows what systems are in use and ensures staff work within approved boundaries.
 
 ### Short Title:
-Asset & Process Management
+Systems & Process Management
 
 ### Internal Label:
 1.2
@@ -83,7 +85,7 @@ Outcomes in this section aim to show whether staff understand their responsibili
 ### Outcomes
 - X: Staff understand what their work requires of them and why the processes and policies guiding that work exist.
 - X: Staff know when their work requires them to follow a set process, and when they can adapt how it gets done without affecting the organization's ability to manage risk.
-- X: Staff are able to identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
+- X: Staff are able to identify security controls or behaviors that are inappropriate, ineffective, or create new risks.
 - X: Staff know what decisions are theirs to make, and when a situation falls outside the boundaries of their authority.
 - x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
 
@@ -98,11 +100,11 @@ The organization takes a coordinated, inclusive, and adaptive approach to managi
 ### Description:
 Organizations that manage risks in silos often find that a decision made to reduce risk in one area quietly creates it in another. But coordination alone isn't enough. Risk management that excludes the people closest to the work produces strategies that are less accurate, less trusted, and more likely to be worked around. And an approach that treats risk as a fixed, settled question will drift out of step with an organization's actual context, activities, and threat environment over time.
 
-Outcomes in this section aim to show whether risk decisions account for their broader effects across the organization, whether staff at all levels have genuine input into decisions that affect their work, whether the organization's understanding of risk stays current as circumstances change, and whether the people affected by risk decisions, including staff, partners, and constituents, are informed and consulted rather than exposed without their knowledge.
+Outcomes in this section aim to show whether risk decisions account for their effects on Broader Risks across the organization, whether staff at all levels have genuine input into decisions that affect their work, whether the organization's understanding of risk stays current as circumstances change, and whether the people affected by risk decisions, including staff, partners, and constituents, are informed and consulted rather than exposed without their knowledge.
 
 ### Outcomes
 - X: Risk management decisions in one area are evaluated for their potential impact on management of Broader Risks.
-- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
+- X: Staff understand how security practices/controls help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff across all levels and function areas have a genuine opportunity to provide input into risk management decisions that affect their work.
 - X: The organization's understanding and management of risks adapts to relevant changes in its context, activities, systems, and threat environment.
 - X: The organization does not accept risks on behalf of staff, constituents, or partners without their knowledge and agreement.
@@ -163,7 +165,7 @@ Outcomes in this section aim to show whether the organization has designated int
 
 ### Outcomes
 - X: System maintenance, upgrades, and infrastructure improvements are owned and overseen by someone with designated internal responsibility, even when the technical work is carried out by others.
-- X: The organization maintains internal staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
+- X: The organization maintains internal staff with has enough understanding of its technical environment to recognize when systems are inappropriate (not meeting security, operational, or mission needs.)
 - X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
 
 ## 2.5
@@ -198,7 +200,7 @@ Outcomes in this section aim to show whether all staff have devices capable of s
 ### Objective Title:
 Security controls are purposeful, practical, and kept current, so they reduce real risk without becoming obstacles to the work.
 ### Short Title:
-Security Controls and Practices
+Security Practices/Controls
 ### Internal Label:
 3.0
 ### Description:
@@ -213,7 +215,7 @@ Outcomes in this section aim to show whether the organization's controls are gro
 - X: Security controls that do not clearly reduce risk in a practical, understood way are removed or simplified.
 - X: Security controls and the reasoning behind them are documented in a way that allows staff to understand, apply, and maintain them.
 - X: Staff at all levels are supported to identify and adopt appropriate alternative controls when standard security controls are inappropriate for their workflow, context, or risk profile.
-- X:  The organization develops security controls and configurations collaboratively with peer organizations facing similar operational contexts, systems, threats, or resource constraints.
+- X: The organization develops security controls and configurations collaboratively with peer organizations facing similar operational contexts, systems, threats, or resource constraints.
 - X: The organization shares its security configurations, policies, and implementation guidance with peer organizations that could benefit from them.
 
 ## 3.2
@@ -231,7 +233,7 @@ Outcomes in this section aim to show whether the organization maintains control 
 ### Outcomes
 - X: New staff receive the accounts and access they need to begin work in a timely manner.
 - X: Only authorized users, services, and hardware have access to our systems and information.
-- X: Inappropriate access or accounts are identified and addressed before they can create unnecessary risk.
+- X: Inappropriate accounts are identified and addressed before they can create unnecessary risk.
 - X: Staff who leave the organization no longer have access to organizational systems and data.
 - X: The organization can access any data or accounts created in the course of its work, regardless of the status or cooperation of any individual staff member.
 - X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
@@ -295,8 +297,8 @@ Outcomes in this section aim to show whether the organization has a clear and pr
 
 ### Outcomes
 - X: The organization has a clear, documented, and current understanding of the functions, data, and processes it cannot afford to lose or stop, including those required to manage safety and security risks during an incident or disruption.
-- X: The organization has the ability to continue or restore all identified critical functions/processes and recover all critical data and documents during or after a disaster.
+- X: The organization has the ability to continue or restore all identified critical functions and processes and recover all critical data and documents during or after a disaster.
 - X: The organization can implement recovery processes with limited staff or following the loss of key personnel.
 - X: Affected staff, constituents, partners, and beneficiaries are informed when incidents or disruptions may affect their data, privacy, safety, or wellbeing.
-- X: The organization exchanges threat intelligence and related security practices with constituents, partners, and peers to prevent or prepare for similar events.
+- X: The organization exchanges threat intelligence and related security practices/controls with constituents, partners, and peers to prevent or prepare for similar events.
 - X: Recovery planning explicitly addresses safety, wellness, and security risks that may arise during or immediately after a disruption, not just operational restoration.
