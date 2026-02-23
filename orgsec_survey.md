@@ -173,28 +173,31 @@ Outcomes in this section aim to show whether the organization has genuine intern
 - X: The organization maintains internal staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
 - X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
 
-## 2.4
+## 2.5
 ### Objective Title:
-All staff have access to adequately powered, regularly updated devices that can support their work and the security requirements that come with it.
+Organizational devices are adequate for the work, consistently maintained, and actively protected.
 ### Short Title:
 ### Internal Label:
-2.4
+2.5
 
 ### Description:
-The computers your staff use are the foundation of nearly every security control your organization can put in place. The software used to carry out and secure your day to day work all require processing power to function, and when devices are too old or underpowered to run them reliably, staff will find workarounds that create new risks. Organizations that underinvest in device replacement often discover that security tools meant to protect them become obstacles instead, and that the informal solutions staff adopt in response quietly undermine the controls the organization thought it had. Devices that are adequate for some staff but not others, or that are allocated based on seniority rather than need, create uneven security across the organization.
+The devices staff use to do their work are the foundation of nearly every security protection an organization can put in place. When devices are too old or underpowered to run current software, staff find workarounds that create new risks. When devices are not consistently maintained, the protections that depend on them quietly erode. Both problems tend to be uneven: organizations that provision devices based on seniority rather than need, or that don't account for the real conditions of remote or field-based staff, end up with security that holds for some people but not others. That unevenness is itself a risk.
 
-Outcomes in this section aim to show that all staff have devices capable of supporting their work and the security requirements that come with it. This includes whether devices can run current software and receive security updates, whether the organization has enough visibility and authority to act when devices fall short, and whether provisioning decisions account for the full range of people and circumstances across the organization.
+Outcomes in this section aim to show whether all staff have devices capable of supporting their work and the security requirements that come with it, whether the organization knows when devices fall short and can act on that knowledge in a reasonable timeframe, and whether device decisions reflect the real working conditions of everyone in the organization.
 
 ### Outcomes
-- X: All staff have access to computers that can run the systems and software required for their work
-- X: Staff computers have sufficient processing power, memory, and storage to handle work tasks without significant performance issues
-- X: Staff devices are capable of running current versions of operating systems and security software
-- X: Determinations about device provisioning are made to address security and/or function-driven requirements, not as a reward for an individuals seniority, tenure, or merit.
-- X: Staff devices receive regular security updates and patches from the manufacturer or operating system vendor
-- X: Technical operations staff have the authority and resources to replace devices that create unacceptable security or operational risks
-- X: Device provisioning decisions consider how device security intersects with physical security (especially for remote workers), operational continuity, and staff safety.
-- X: Senior leadership demonstrates compliance with the same policies that apply to all staff.
-- X: Device security considerations include the risks created by staff using personal devices or workarounds they put in place when organizational devices are inadequate
+- X: The organization knows when devices or software are out of date or insecurely configured.
+- X: All staff have devices with sufficient processing power, storage, and compatibility to run current operating systems, security software, and the tools required for their work.
+- X: Device provisioning decisions are based on functional and security requirements, applied consistently across all staff regardless of role, seniority, or merit.
+- X: Device provisioning reflects the real working conditions of all staff, including the risks created by remote work, inadequate equipment, and personal device use.
+- X: Staff provide informed consent before device security measures are installed on their devices, with a clear understanding of what data will be collected and how it will be used.
+- X: When devices are identified as out of date, insecure, or untrustworthy, the underlying issues are addressed or the device is replaced within a reasonable timeframe.
+- X: Devices prevent installation or execution of malicious software.
+- X: Devices can be restored to a clean, known-good state when necessary.
+
+#### References
+- Honest Security:  https://honest.security/
+
 
 # Section 3:  Digital Security Baseline Capacities
 
@@ -239,29 +242,6 @@ Outcomes in this section aim to show whether the organization maintains control 
 - X: Staff who leave the organization no longer have access to organizational systems and data.
 - X: The organization can access any data or accounts created in the course of its work, regardless of the status or cooperation of any individual staff member.
 - X: When individual accountability is required, actions taken in relevant systems can be traced to the specific staff member who performed them.
-
-## 3.3
-### Objective Title:
-Devices used to carry out organizational work are trustworthy, understood, maintained, and protected.
-### Short Title:
-Device Integrity
-### Internal Label:
-3.3
-### Description:
-The information that lives on and moves through organizational devices carries real risk if it is stolen, exposed, or destroyed. Managing that risk starts with devices that can be genuinely trusted, by the people who use them and the organization that depends on them. Building that trust means maintaining a clear picture of what devices are doing, keeping them current and healthy, and ensuring they are actively defended.
-
-Outcomes in this section aim to show whether the organization has the visibility, tools, and capacity to keep its devices trustworthy. This includes knowing what is installed and how things are configured, being able to identify and act on problems in a reasonable timeframe, having measures in place to protect devices; and ensuring that staff feel they can depend on their devices to safely and securely carry out their work.
-
-### Outcomes
-- X: The organization can identify devices and software that are running outdated versions or are configured insecurely.
-- X: Devices prevent installation or execution of malicious software.
-- X: When devices are identified as out of date, insecure, or untrustworthy, the organization has the capacity to take action in a reasonable timeframe.
-- X: Devices can be restored to a clean, known-good state when necessary.
-- X: Staff provide informed consent before device security measures are installed on their devices, understanding what data will be collected and how it will be used.
-- X: The organization leverages shared resources, discounted software programs (like TechSoup), or peer networks to access legitimate copies of software and security tools affordably.
-
-#### References
-- Honest Security:  https://honest.security/
 
 ## 3.5
 ### Objective Title:
