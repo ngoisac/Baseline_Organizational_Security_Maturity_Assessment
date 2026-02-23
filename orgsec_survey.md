@@ -147,7 +147,6 @@ Technical support is not a luxury; it is the foundation that everything else dep
 Outcomes in this section aim to show whether staff have access to technical support that keeps them working effectively and securely, whether problems get resolved rather than recurring, and whether the people providing that support understand the organization's work and risk context well enough to protect it.
 
 ### Outcomes
-- X: Technology capacity supports (rather than hinders) the organization's mission and programmatic goals.
 - X: Systems remain operational and available when staff need them to do their work.
 - X: Staff technical issues are resolved within timeframes that allow work to continue effectively.
 - X: Technical support responsibilities are clearly assigned and known within the organization.
