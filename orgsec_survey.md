@@ -190,7 +190,6 @@ Outcomes in this section aim to show that all staff have devices capable of supp
 - X: Staff devices are capable of running current versions of operating systems and security software
 - X: Determinations about device provisioning are made to address security and/or function-driven requirements, not as a reward for an individuals seniority, tenure, or merit.
 - X: Staff devices receive regular security updates and patches from the manufacturer or operating system vendor
-- X: The organization has visibility into the age, condition, and security status of devices used by staff for work
 - X: Technical operations staff have the authority and resources to replace devices that create unacceptable security or operational risks
 - X: Device provisioning decisions consider how device security intersects with physical security (especially for remote workers), operational continuity, and staff safety.
 - X: Senior leadership demonstrates compliance with the same policies that apply to all staff.
