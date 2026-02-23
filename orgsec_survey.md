@@ -107,7 +107,7 @@ Outcomes in this section aim to show whether the organization understands and ma
 - X: Risk management decisions in one area are evaluated for their potential impact on management of Broader Risks.
 - X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff across all levels and function areas have a genuine opportunity to provide input into risk management decisions that affect their work.
-- X: The organization's understanding and management of risks adapts to relevant changes in its context, activities, and threat environment.
+- X: The organization's understanding and management of risks adapts to relevant changes in its context, activities, systems, and threat environment.
 - X: The organization does not accept risks on behalf of staff, constituents, or partners without their knowledge and agreement.
 - X: The organization can accommodate different levels of individual risk tolerance without compromising the safety and security of others.
 - X: Staff involve those responsible for managing the relevant risks before taking actions that could expose the organization or others to more risk than they have agreed to accept.
