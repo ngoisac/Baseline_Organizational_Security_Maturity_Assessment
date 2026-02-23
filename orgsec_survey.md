@@ -41,10 +41,7 @@ Outcomes in this section aim to show whether staff have access to the training t
 - X: Staff are provided refresher training on relevant topics.
 - X: Training materials are kept up to date with changes in the context, risk landscape, systems, and processes.
 - X: Staff are only required to train on the topics which are relevant to their current skill level or role.
-- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
 - X: Staff understand the risks that security and safety processes and controls are designed to mitigate well enough to make sound decisions in situations their training didn't explicitly cover.
-- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
-- X: Staff at all levels can identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
 - X: The organization has evidence that staff can perform their assigned incident response and crisis management roles under realistic (simulated) conditions.
 
 
@@ -89,11 +86,11 @@ Outcomes in this section aim to show whether staff understand their responsibili
 
 ### Outcomes
 - X: Staff follow approved processes to carry out their work.
-- X: Staff understand their responsibilities when using systems.
+- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
 - X: Staff understand their roles and responsibilities in policies and processes.
+- X: Staff are able to identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
 - X: Exceptions to policies are documented and justified transparently.
 - x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
-- X: Staff understand the scope of their decision-making authority.
 
 
 ## 1.6
@@ -110,6 +107,7 @@ Outcomes in this section aim to show whether the organization understands and ma
 
 ### Outcomes
 - X: Risk management decisions in one area are evaluated for their potential impact on management of Broader Risks.
+- X: Staff understand how security practices help mitigate Broader Risks facing the organization and the people it serves.
 - X: Staff across all levels and function areas have a genuine opportunity to provide input into risk management decisions that affect their work.
 - X: The organization's understanding and management of risks adapts to relevant changes in its context, activities, and threat environment.
 - X: The organization does not accept risks on behalf of staff, constituents, or partners without their knowledge and agreement.
