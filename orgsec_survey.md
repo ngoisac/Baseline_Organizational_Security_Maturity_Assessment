@@ -78,16 +78,15 @@ Clear stakeholder responsibilities and limitation
 1.4
 
 ### Description:
-Policies are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. An organization that relies on compliance alone creates a fragile security posture: staff who don't understand the reasoning behind a policy cannot adapt when circumstances change, and those who face situations their training didn't cover have no basis for making the right call. At the same time, policies that don't account for the real differences in staff circumstances, contexts, and risk profiles will be applied unevenly or quietly ignored by those they don't fit.
+Policies and procedures are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. An organization that relies on compliance alone creates a fragile security posture: staff who don't understand the reasoning behind a policy cannot adapt when circumstances change, and those who face situations their training didn't cover have no basis for making the right call. At the same time, policies that don't account for the real differences in staff circumstances, contexts, and risk profiles will be applied unevenly or quietly ignored by those they don't fit.
 
 Outcomes in this section aim to show whether staff understand their responsibilities, the risks those responsibilities are designed to address, and the boundaries of their decision-making authority, and whether the organization's policies and processes are flexible and equitable enough to work for everyone expected to follow them.
 
 ### Outcomes
-- X: Staff follow approved processes to carry out their work.
-- X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
-- X: Staff understand their roles and responsibilities in policies and processes.
+- X: Staff understand what their work requires of them and why the processes and policies guiding that work exist.
+- X: Staff know when their work requires them to follow a set process, and when they can adapt how it gets done without affecting the organization's ability to manage risk.
 - X: Staff are able to identify security controls or behaviors that are inappropriate, ineffective, or creating new risks.
-- X: Exceptions to policies are documented and justified transparently.
+- X: Staff know what decisions are theirs to make, and when a situation falls outside the boundaries of their authority.
 - x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
 
 
