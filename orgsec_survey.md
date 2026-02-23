@@ -342,7 +342,6 @@ Outcomes in this section aim to show if staff can do their jobs and be secure si
 - X: Staff have access to the internal documents and data they need to carry out their work and collaborate effectively.
 - X: Higher-risk information is only accessible to staff who have a genuine need for it.
 - X: Everyone with access to higher-risk information understand its sensitivity, the risks of exposure or mishandling, and how to handle it appropriately.
-- X: Staff across the organization can recognize when access doesn't seem appropriate and know how to raise it.
 - X: Staff recognize and respect appropriate information boundaries - knowing what not to share and not seeking what they don't need.
 - X: Staff's access to systems allows them to do their job effectively, without enabling them to take actions that would create unnecessary risk.
 - X: Staff understand what they can do in the systems they access, the risks those actions carry, and their responsibilities in using them.
