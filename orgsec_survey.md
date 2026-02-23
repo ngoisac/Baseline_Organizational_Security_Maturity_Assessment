@@ -167,8 +167,7 @@ Outcomes in this section aim to show whether the organization has genuine intern
 
 ### Outcomes
 - X: System maintenance, upgrades, and infrastructure improvements are owned and overseen by someone with designated internal responsibility, even when the technical work is carried out by others.
-- X: The organization maintains staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
-- X: Technical decisions are aligned with the organization's broader approach to managing risk.
+- X: The organization maintains internal staff with has enough understanding of its technical environment to recognize when systems are not meeting security, operational, or mission needs.
 - X: Technical operations are informed by relevant knowledge, trends, and peer experience from the organization's sector and context.
 
 ## 2.4
