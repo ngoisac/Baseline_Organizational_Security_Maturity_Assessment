@@ -68,29 +68,26 @@ Outcomes in this section aim to show whether the organization has a clear, commu
 
 ## 1.4
 ### Field Label:
-Have a complete policy set describing employees' responsibilities and limitations on their facilities, hardware, and information systems use, including clearly laying out expectations for extended periods of working from home.
-
-provide staff all of the information they might need to
-- ensure that staff follow these processes effectively, and
-- make the right security decision when necessary.
-
+Staff understand what is expected of them, why it matters, and what to do when standard policies and processes don't cover the situation they face.
 ### Short Title:
 Clear stakeholder responsibilities and limitation
 ### Internal Label:
 1.4
 
 ### Supporting Text:
+Policies are only useful when staff understand them well enough to follow them and, when necessary, to make good decisions without them. An organization that relies on compliance alone creates a fragile security posture: staff who don't understand the reasoning behind a policy cannot adapt when circumstances change, and those who face situations their training didn't cover have no basis for making the right call. At the same time, policies that don't account for the real differences in staff circumstances, contexts, and risk profiles will be applied unevenly or quietly ignored by those they don't fit.
 
+Outcomes in this section aim to show whether staff understand their responsibilities, the risks those responsibilities are designed to address, and the boundaries of their decision-making authority, and whether the organization's policies and processes are flexible and equitable enough to work for everyone expected to follow them.
 
 ### Outcomes
 - X: Staff follow approved processes to carry out their work.
 - X: Staff understand their responsibilities when using systems.
 - X: Staff understand their roles and responsibilities in policies and processes.
-- X: Staff understand the specific risks policies and processes are mitigating.
+- X: Staff understand the specific risks the policies and processes they implement are mitigating.
 - X: Exceptions to policies are documented and justified transparently.
-- x: TODO: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
+- x: The organization ensures that staff with unequal personal risk levels due to their individual profiles or contexts are provided appropriate accommodations, experiencing no disadvantage in safety, performance expectations.
 - X: Staff understand the scope of their decision-making authority.
-- X: TODO Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
+- X: Staff have all the information and agency they might need to safely deviate from standard processes and systems when needed to accomplish operational objectives or mitigate unacceptable risk
 
 
 ## 1.6
