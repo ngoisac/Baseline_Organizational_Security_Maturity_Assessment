@@ -3,7 +3,7 @@
 ## About
 This assessment tool is meant to help organizations identify where their most critical security needs lie.
 
-This survey is a fork of the [Organizational Security Assessment Tool COVID-19 Edition](https://0xacab.org/iecology/orgsec-assessment/) and the [Digital Security Readiness Assessment Tool](https://0xacab.org/iecology/security-checklists) created by Jonah Silas Sheridan, Lisa Jervis for [Information Ecology](https://iecology.org/).
+This Security assessment is an adaptation of the [Organizational Security Assessment Tool COVID-19 Edition](https://0xacab.org/iecology/orgsec-assessment/) and the [Digital Security Readiness Assessment Tool](https://0xacab.org/iecology/security-checklists) created by Jonah Silas Sheridan, Lisa Jervis for [Information Ecology](https://iecology.org/).
 
 ## Deploying this survey content yourself
 This repository only contains the adaptations NGO-ISAC made to the source content. It does not include any code to deploy this content as a survey.
@@ -84,3 +84,14 @@ WHY: Not understanding how context and personal profile characteristics impact p
 ##### References
 - Managing the Security of Aid Workers with Diverse Profiles: https://gisf.ngo/resource/managing-the-security-of-aid-workers-with-diverse-profiles/
 - Toward Inclusive Security Risk Management: the impact of 'race', ethnicity and nationality on aid workers' security: https://gisf.ngo/wp-content/uploads/2025/03/Toward-Inclusive-Security-Risk-Management.pdf
+
+
+# Terms used in this survey
+- Systems: This refers to any technologies/tools, systems, or online services which are used to carry out work. This includes physical devices (laptops, phones, tablets), software on those devices, hosted and online services, third-party applications, etc.
+- Processes: This is the way your work is done. This includes any standard operating procedures, specific workflows, security practices, etc.
+- Security Practices/Controls: these are any processes that are specifically used to mitigate security risks. (i.e. Use of security tools like two-factor or password managers, data collection/minimization standards, secure communications protocols, etc.)
+- Appropriate systems or processes: Appropriate systems or processes (including security controls) are those that the organization has identified as allowing it to safety and effectively carry out the organizations work.
+- Inappropriate systems or processes: Inappropriate systems or processes (including security controls) are those that create unacceptable obstacles to efficient, secure operations, have excessive costs, or has unacceptable impacts on risk management efforts.
+- Broader Risks: The full range of interconnected risks facing an organization and the people it serves; spanning physical, digital, psychosocial, legal, financial, reputational, operational, and other dimensions. When used in this assessment, it signals that the risks being described extend beyond pure information security risks to risks with impacts on mission effectiveness, individual safety or wellbeing, or organizational operations.
+- Critical Functions: The activities, processes, and data the organization has determined it cannot afford to lose, pause, or be denied access to without serious harm to its mission, its staff, or the people it serves.
+- Incidents and Disruptions: Used together in this assessment to describe the full range of events that can interrupt or harm an organization's operations, data, staff, or constituents. A security incident typically refers to an event involving unauthorized access, data exposure, or deliberate attack. An operational disruption refers more broadly to any event — including natural disasters, infrastructure failure, or political instability — that prevents the organization from carrying out its work. Many response and recovery practices apply to both.
