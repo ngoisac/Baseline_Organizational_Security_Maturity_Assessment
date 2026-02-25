@@ -49,10 +49,6 @@ For each Outcome statement, select the option that most honestly reflects your o
 |Most of the time|  Often true, but inconsistent.|
 |Always |Reliably true across the organization.|
 
-**If you are unsure, choose "I don't know."** This is encouraged, not penalized. Gaps in organizational awareness are themselves meaningful findings, and "I don't know" responses help identify areas where your organization may benefit from building better visibility or understanding.
-
-This survey also includes an **"I don't understand"** option during this initial release. Use it to flag any Outcome statement you find confusing or unclear. This feedback will help improve the survey for future respondents.
-
 **Use “I don’t know” freely!** Lack of visibility is itself an important finding. "I don't know" responses help identify areas where your organization may benefit from building better visibility or understanding.
 
 In this early version you’ll also see **“I don’t understand”**; use it to flag anything unclear so we can improve it.
