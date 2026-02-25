@@ -1,7 +1,7 @@
-# Organizational Security Assessment Survey
+# Baseline Organizational Security Maturity Assessment
 
 ## About
-This assessment tool is meant to help organizations identify where their most critical security needs lie.
+The NGO-ISAC Baseline Organizational Security Maturity Assessment helps you see whether your organization has the foundational capacity needed to adopt and maintain effective digital security practices.
 
 This Security assessment is an adaptation of the [Organizational Security Assessment Tool COVID-19 Edition](https://0xacab.org/iecology/orgsec-assessment/) and the [Digital Security Readiness Assessment Tool](https://0xacab.org/iecology/security-checklists) created by Jonah Silas Sheridan, Lisa Jervis for [Information Ecology](https://iecology.org/).
 
